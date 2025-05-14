@@ -46,7 +46,7 @@ pub(all) struct ModuleIndex {
 pub fn load() -> (Cmd[Msg], Model) {
   (
     @http.get(
-      "/assets/modules.json",
+      "https://mooncakes.io/assets/modules.json",
       expect=Json(GotModuleIndices(_), decode_module_indices),
     ),
     { indices: Loading, filter: "", filtered_modules: [] },
