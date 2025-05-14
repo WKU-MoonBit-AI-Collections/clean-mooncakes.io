@@ -170,6 +170,24 @@ extern "js" fn compare_date(date1 : String, date2 : String) -> Int =
 
 ///|
 fn decode_module_indices(modules_json : Json) -> Result[Indices, String] {
+  guard @json.parse?(resource).unwrap() is Array(blacklist)
+  let blacklist = @hashset.from_array(
+    blacklist
+    .iter()
+    .map(fn(x) {
+      let metadata = x
+        .as_object()
+        .unwrap()
+        .get("metadata")
+        .unwrap()
+        .as_object()
+        .unwrap()
+      let package_name = metadata.get("name").unwrap().as_string().unwrap()
+      let author = metadata.get("author").unwrap().as_string().unwrap()
+      author + "/" + package_name
+    })
+    .collect(),
+  )
   fn decode_index {
     ({
       "name": String(path),
@@ -217,6 +235,7 @@ fn decode_module_indices(modules_json : Json) -> Result[Indices, String] {
         // Filter out the test modules
         match index.keywords {
           Some(keywords) if keywords.contains("mooncakes-test") => ()
+          _ if blacklist.contains(index.path) => ()
           _ => indices.push(index)
         }
       Err(msg) => return Err(msg)

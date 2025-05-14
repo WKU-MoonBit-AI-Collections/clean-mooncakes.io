@@ -9,5 +9,12 @@
     "Yoorkin/rabbit-tea/cmd",
     "moonbitlang/mooncakes/view",
     "moonbitlang/mooncakes/util"
+  ],
+  "pre-build": [
+    {
+      "input": "../../../blacklist.json",
+      "output": "blacklist.mbt",
+      "command": ":embed -i $input -o $output"
+    }
   ]
 }

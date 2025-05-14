@@ -1,0 +1,3053 @@
+[
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "A-23187",
+      "name": "encoding",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [
+        "hex",
+        "base64",
+        "base32"
+      ],
+      "createdAt": "2024-11-02T14:16:05.008219+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "Bemly",
+      "name": "cstdio-ffi",
+      "description": "standard C library I/O FFI binding. \n对C标准库中stdio的绑定",
+      "version": "0.0.0",
+      "keywords": [
+        "native",
+        "stdio",
+        "ffi",
+        "c"
+      ],
+      "createdAt": "2025-04-30T18:19:59.459837+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "CAIMEOX",
+      "name": "feat-moon",
+      "description": "Functional enumeration of algebraic types",
+      "version": "0.2.0",
+      "keywords": [
+        "generation",
+        "functional enumeration"
+      ],
+      "createdAt": "2024-07-29T01:36:00.892562+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "CAIMEOX",
+      "name": "list",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [
+        "list"
+      ],
+      "createdAt": "2024-01-23T12:41:53.819691+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "CAIMEOX",
+      "name": "quickcheck",
+      "description": "Automatic testing of MoonBit programs",
+      "version": "0.6.9",
+      "keywords": [
+        "property-based-testing",
+        "quickcheck"
+      ],
+      "createdAt": "2024-11-18T02:37:53.419876+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "CAIMEOX",
+      "name": "t",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2024-01-23T08:59:05.933896+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "Erolaffy",
+      "name": "easy-io",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [
+        "easy-io"
+      ],
+      "createdAt": "2025-01-20T08:19:21.115336+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "FreeFoots",
+      "name": "mooncake_hello",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-11T13:46:58.824725+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "Guest0x0",
+      "name": "HAMT",
+      "description": "",
+      "version": "0.2.1",
+      "keywords": [],
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "Guest0x0",
+      "name": "dregex",
+      "description": "",
+      "version": "0.2.5",
+      "keywords": [],
+      "createdAt": "2024-01-31T07:26:46.522026+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "Howardzhangdqs",
+      "name": "md5",
+      "description": "MD5 的 MoonBit 实现",
+      "version": "0.9.3",
+      "keywords": [
+        "md5"
+      ],
+      "createdAt": "2024-06-25T03:36:16.940117+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "KCN-judu",
+      "name": "calculus-numerical",
+      "description": "A numerical calculus library, a part of LunaFlow.",
+      "version": "0.2.1-alpha-6",
+      "keywords": [
+        "calculus",
+        "numerical-methods",
+        "math"
+      ],
+      "createdAt": "2025-02-15T05:53:28.532241+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "Kaida-Amethyst",
+      "name": "moonbit-math",
+      "description": "High-precision Math library",
+      "version": "0.1.14",
+      "keywords": [
+        "math",
+        "numeric"
+      ],
+      "createdAt": "2025-02-07T08:08:01.448933+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "Lalenture",
+      "name": "hello",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-09T10:11:48.924022+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "Lampese",
+      "name": "moondata",
+      "description": "",
+      "version": "0.2.8",
+      "keywords": [],
+      "createdAt": "2025-01-09T03:55:37.532021+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "Lampese",
+      "name": "moondata2",
+      "description": "",
+      "version": "0.0.2",
+      "keywords": [],
+      "createdAt": "2025-01-17T08:51:01.790820+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "NerdyLee",
+      "name": "newcake_ls",
+      "description": "find the maximum value in a list",
+      "version": "0.1.1",
+      "keywords": [
+        "find_max_num"
+      ],
+      "createdAt": "2025-03-12T08:04:22.103151+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "PerfectPan",
+      "name": "base64",
+      "description": "base64 encode/decode library",
+      "version": "0.1.1",
+      "keywords": [
+        "base64"
+      ],
+      "createdAt": "2024-04-07T10:12:53.449671+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "PingGuoMiaoMiao",
+      "name": "hello",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-11T13:22:26.718149+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "TheWaWaR",
+      "name": "lunar",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-22T15:39:08.708082+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "TianZaiShuiZhong",
+      "name": "hello",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-11T11:14:26.125831+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "Yoorkin",
+      "name": "format",
+      "description": "simple printf utils",
+      "version": "0.1.5",
+      "keywords": [
+        "format",
+        "utils"
+      ],
+      "createdAt": "2024-07-30T09:45:49.046658+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "Yoorkin",
+      "name": "hashtbl",
+      "description": "",
+      "version": "0.1.2",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "createdAt": "2024-09-04T03:16:18.533001+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "Yoorkin",
+      "name": "hello",
+      "description": "",
+      "version": "0.1.3",
+      "keywords": [
+        "utils",
+        "array",
+        "hello MoonBit"
+      ],
+      "createdAt": "2024-02-04T09:07:20.617611+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "Yoorkin",
+      "name": "example",
+      "description": "functional style List for MoonBit",
+      "version": "0.1.4",
+      "keywords": [
+        "list",
+        "data structure",
+        "utility"
+      ],
+      "createdAt": "2024-01-26T07:51:20.491181+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "Young-Flash",
+      "name": "test",
+      "description": "",
+      "version": "0.2.0",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "createdAt": "2024-08-23T10:32:04.970519+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "Young-Flash",
+      "name": "test_ignore",
+      "description": "",
+      "version": "0.2.0",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "createdAt": "2024-08-23T10:31:48.481588+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "Young-Flash",
+      "name": "test_publish",
+      "description": "",
+      "version": "0.2.0",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "createdAt": "2024-08-23T10:31:08.636269+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "Yu-zh",
+      "name": "termbit",
+      "description": "A terminal manipulation library written in MoonBit",
+      "version": "0.1.1",
+      "keywords": [
+        "console",
+        "terminal",
+        "color",
+        "cursor",
+        "tui"
+      ],
+      "createdAt": "2025-04-09T03:33:08.950856+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "YumeCross",
+      "name": "schema",
+      "description": "Json Schema validation for MoonBit.",
+      "version": "0.4.3",
+      "keywords": [
+        "json",
+        "schema"
+      ],
+      "createdAt": "2024-11-03T04:15:53.128825+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "bob",
+      "name": "aegis",
+      "description": "AEGIS cipher implementation in Moonbit",
+      "version": "0.1.0",
+      "keywords": [
+        "crypto",
+        "aead",
+        "aegis",
+        "encryption"
+      ],
+      "createdAt": "2024-05-17T06:57:16.599651+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "bobzhang",
+      "name": "testa",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "bobzhang",
+      "name": "testb",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "bzy-debug",
+      "name": "cowsay",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "bzy-debug",
+      "name": "cowsay_lib",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "bzy-debug",
+      "name": "hello",
+      "description": "",
+      "version": "0.1.20240510+81e045f4e",
+      "keywords": [],
+      "createdAt": "2024-05-10T02:59:53.015764+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "eczn",
+      "name": "eczn-utils",
+      "description": "",
+      "version": "0.2.0",
+      "keywords": [],
+      "createdAt": "2024-05-01T18:51:02.119094+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "enjoecn",
+      "name": "easy",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2024-06-25T04:39:31.476831+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "enjoecn",
+      "name": "gb",
+      "description": "",
+      "version": "0.1.1",
+      "keywords": [],
+      "createdAt": "2024-07-19T07:34:06.699464+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "fantix",
+      "name": "mmhttp",
+      "description": "MoonBit 的 HTTP 工具包",
+      "version": "0.3.0",
+      "keywords": [
+        "http",
+        "parser"
+      ],
+      "createdAt": "2024-06-01T23:39:50.432192+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "fantix",
+      "name": "muts",
+      "description": "非函数式的常用数据结构合集",
+      "version": "0.5.4",
+      "keywords": [
+        "mutable",
+        "data structure"
+      ],
+      "createdAt": "2024-03-29T14:33:33.340850+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "five-nuts",
+      "name": "coreutils",
+      "description": "",
+      "version": "0.1.3",
+      "keywords": [],
+      "createdAt": "2024-11-16T11:05:35.555323+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "gmlewis",
+      "name": "json",
+      "description": "simple json parser",
+      "version": "0.15.0",
+      "keywords": [
+        "json"
+      ],
+      "createdAt": "2024-07-15T16:00:16.688896+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "gmlewis",
+      "name": "jsonutil",
+      "description": "DEPRECATED AND ARCHIVED - USE STANDARD LIBRARY INSTEAD",
+      "version": "0.24.0",
+      "keywords": [
+        "json"
+      ],
+      "createdAt": "2024-08-20T13:23:23.993256+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "gmlewis",
+      "name": "modus",
+      "description": "Experimental Modus SDK for the MoonBit programming language.",
+      "version": "0.16.5",
+      "keywords": [
+        "modus",
+        "moonbit",
+        "sdk"
+      ],
+      "createdAt": "2025-01-18T01:23:10.174077+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "hackwaly",
+      "name": "common",
+      "description": "",
+      "version": "0.1.24",
+      "keywords": [],
+      "createdAt": "2024-03-08T02:22:28.618759+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "hackwaly",
+      "name": "moonyacc",
+      "description": "",
+      "version": "0.3.1",
+      "keywords": [],
+      "createdAt": "2024-12-23T17:39:47.402951+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "hzqdf",
+      "name": "aoko",
+      "description": "A MoonBit extension library.",
+      "version": "0.0.20250321",
+      "keywords": [],
+      "createdAt": "2025-03-21T01:22:25.420758+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "illusory0x0",
+      "name": "qpainter",
+      "description": "Moonbit FFI Bindings for Qt's QPainter",
+      "version": "0.3.1",
+      "keywords": [
+        "Qt6",
+        "Qt",
+        "GUI",
+        "QPainter",
+        "canvas",
+        "native",
+        "FFI",
+        "C++ FFI"
+      ],
+      "createdAt": "2025-04-29T00:02:42.107432+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "jedisct1",
+      "name": "aegis",
+      "description": "AEGIS cipher implementation in Moonbit",
+      "version": "0.2.1",
+      "keywords": [
+        "crypto",
+        "aead",
+        "aegis",
+        "encryption"
+      ],
+      "createdAt": "2024-09-05T11:54:20.988088+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "jumpping",
+      "name": "baby",
+      "description": "Ordered set based on balanced binary tree",
+      "version": "0.2.0",
+      "keywords": [],
+      "createdAt": "2024-11-27T08:53:04.763310+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "kesmeey",
+      "name": "tools",
+      "description": "A utility library similar to Hutool in Java.",
+      "version": "0.1.9",
+      "keywords": [
+        "tools",
+        "utility"
+      ],
+      "createdAt": "2025-02-16T16:19:47.596171+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "li",
+      "name": "hello",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "lijunchen",
+      "name": "hello",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "createdAt": "2024-06-17T07:46:24.641140+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "lijunchen",
+      "name": "hello16",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "lijunchen",
+      "name": "hello18",
+      "description": "test",
+      "version": "0.1.35",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "createdAt": "2025-03-12T06:45:06.740849+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "lijunchen",
+      "name": "hello19",
+      "description": "",
+      "version": "0.1.2",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "createdAt": "2024-07-31T08:42:29.245421+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "lijunchen",
+      "name": "hello2",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "createdAt": "2024-06-17T08:09:36.743017+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "lijunchen",
+      "name": "hello23",
+      "description": "",
+      "version": "0.1.2",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "lijunchen",
+      "name": "hello24",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "lijunchen",
+      "name": "mooncake",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "lijunchen",
+      "name": "test_postadd",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "createdAt": "2025-04-09T07:46:45.840608+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "lijunchen",
+      "name": "unstable_io",
+      "description": "Unstable IO package for MoonBit",
+      "version": "0.1.3",
+      "keywords": [
+        "io"
+      ],
+      "createdAt": "2024-07-04T08:00:41.577085+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "lijunchen",
+      "name": "nested",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "lijunchen",
+      "name": "nested",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "lijunchen",
+      "name": "nested",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "loneoutpost",
+      "name": "core-extra",
+      "description": "experimental extras for `moonbit/core`.",
+      "version": "0.0.6",
+      "keywords": [
+        "core"
+      ],
+      "createdAt": "2024-06-03T10:11:41.349647+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "lucifer1004",
+      "name": "mooncake",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "mizchi",
+      "name": "js_io",
+      "description": "",
+      "version": "0.1.1",
+      "keywords": [
+        "js"
+      ],
+      "createdAt": "2024-04-22T02:22:00.182813+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "mizchi",
+      "name": "js_regexp",
+      "description": "JS RegExp binding",
+      "version": "0.0.4",
+      "keywords": [
+        "regexp"
+      ],
+      "createdAt": "2024-04-17T03:43:48.244515+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "mizchi",
+      "name": "json",
+      "description": "simple json parser",
+      "version": "0.4.0",
+      "keywords": [
+        "json"
+      ],
+      "createdAt": "2024-04-30T17:39:25.061037+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "mizchi",
+      "name": "protocol",
+      "description": "",
+      "version": "0.0.5",
+      "keywords": [
+        "js"
+      ],
+      "createdAt": "2024-05-07T20:33:53.012583+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "moonbit-courses",
+      "name": "minimoonbit-courses",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2024-08-23T07:24:55.418749+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "moonbitlang",
+      "name": "std",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "myfreess",
+      "name": "myers-diff",
+      "description": "Myers diff algorithm",
+      "version": "0.1.0",
+      "keywords": [
+        "diff",
+        "meyers"
+      ],
+      "createdAt": "2024-07-18T07:59:34.603097+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "oboard",
+      "name": "mooncrypto",
+      "description": "MoonBit Crypto Library",
+      "version": "0.1.8",
+      "keywords": [
+        "crypto",
+        "加密",
+        "md5",
+        "sha",
+        "base64"
+      ],
+      "createdAt": "2024-07-30T12:09:43.313495+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "oboard",
+      "name": "moonetx",
+      "description": "MoonBit网络分析扩展",
+      "version": "0.1.5",
+      "keywords": [
+        "moonbit",
+        "moonetx",
+        "network",
+        "networkx"
+      ],
+      "createdAt": "2024-07-31T07:23:03.295398+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "peter-jerry-ye",
+      "name": "advent_of_code",
+      "description": "",
+      "version": "0.3.1-fix",
+      "keywords": [],
+      "createdAt": "2024-01-26T08:48:45.349484+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "peter-jerry-ye",
+      "name": "assertion",
+      "description": "",
+      "version": "0.2.1",
+      "keywords": [],
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "peter-jerry-ye",
+      "name": "json",
+      "description": "",
+      "version": "0.4.0",
+      "keywords": [],
+      "createdAt": "2024-09-04T02:39:51.114591+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "peter-jerry-ye",
+      "name": "memory",
+      "description": "",
+      "version": "0.8.4",
+      "keywords": [],
+      "createdAt": "2024-11-25T08:44:51.346515+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "peter-jerry-ye",
+      "name": "parser-combinator",
+      "description": "",
+      "version": "0.9.1",
+      "keywords": [],
+      "createdAt": "2024-09-04T02:21:08.851501+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "suiyunonghen",
+      "name": "linklist",
+      "description": "Double Linked List 双链表",
+      "version": "0.1.7",
+      "keywords": [
+        "Double Linked List",
+        "双链表"
+      ],
+      "createdAt": "2024-11-26T02:28:44.862312+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "summer-boythink",
+      "name": "moonorm",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2024-03-15T08:32:45.512162+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "test",
+      "name": "B",
+      "description": "",
+      "version": "0.1.2",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "test",
+      "name": "C",
+      "description": "",
+      "version": "0.1.3",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "test",
+      "name": "D",
+      "description": "",
+      "version": "0.1.4",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "test",
+      "name": "E",
+      "description": "",
+      "version": "0.1.3",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "test",
+      "name": "F",
+      "description": "",
+      "version": "0.1.1",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "test",
+      "name": "G",
+      "description": "",
+      "version": "0.1.1",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "tmkx",
+      "name": "hello",
+      "description": "",
+      "version": "0.0.0",
+      "keywords": [],
+      "createdAt": "2024-07-03T03:18:08.426528+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "iter",
+      "description": "",
+      "version": "0.1.3",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "createdAt": "2024-09-04T02:46:47.501114+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "malloc",
+      "description": "An simple external allocator",
+      "version": "0.1.3",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "createdAt": "2024-11-25T06:22:55.414002+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "narray",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2024-09-29T06:11:35.618944+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "ops",
+      "description": "",
+      "version": "0.0.2",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "createdAt": "2024-09-04T02:47:51.112936+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "pcre2",
+      "description": "",
+      "version": "0.1.1",
+      "keywords": [],
+      "createdAt": "2025-03-18T08:32:02.406969+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "torch",
+      "description": "PyTorch-like tensor operations implemented in MoonBit",
+      "version": "0.2.8",
+      "keywords": [],
+      "createdAt": "2025-03-26T05:00:59.496859+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "webgpu",
+      "description": "",
+      "version": "0.1.7",
+      "keywords": [],
+      "createdAt": "2025-02-09T15:54:00.943996+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "wangziling",
+      "name": "hello",
+      "description": "",
+      "version": "0.0.1",
+      "keywords": [],
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "xunyoyo",
+      "name": "Permutation",
+      "description": "",
+      "version": "0.1.1",
+      "keywords": [],
+      "createdAt": "2024-11-15T10:48:43.405249+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "yamajik",
+      "name": "dapr",
+      "description": "",
+      "version": "0.1.11",
+      "keywords": [],
+      "createdAt": "2024-12-11T07:09:02.084989+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "yamajik",
+      "name": "wasi-bindings",
+      "description": "",
+      "version": "0.2.1",
+      "keywords": [],
+      "createdAt": "2024-12-04T08:51:22.804911+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "yamajik",
+      "name": "wasi",
+      "description": "",
+      "version": "0.1.25",
+      "keywords": [],
+      "createdAt": "2024-12-11T07:03:46.754274+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "yj-qin",
+      "name": "moonlox",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-01-16T01:52:00.566502+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "在最新版本中无法构建",
+    "metadata": {
+      "author": "yoshitsugu",
+      "name": "parsem",
+      "description": "Parser combinator for Moonbit",
+      "version": "0.0.3",
+      "keywords": [
+        "parser",
+        "parser combinator"
+      ],
+      "createdAt": "2024-12-30T11:13:52.654944+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供的'summation'函数功能过于基础（累加运算），这类简单数学运算通常应由标准库提供。代码库缺少详细文档（README仅包含基础信息）、未提供实际应用场景说明、版本号0.1.0表明处于早期开发阶段，且未体现特殊优化或广泛用途需求，无法形成生态价值。",
+    "metadata": {
+      "author": "202306123",
+      "name": "lib_mbt",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-03T11:58:59.044858+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库存在多个关键问题：\n1. 文档严重缺失（README仅包含基础标题，缺少使用说明和示例）\n2. 功能实现简单单一（仅包含名为'fwshzu'的未明确功能）\n3. 未体现核心价值（没有显示出解决复杂问题或提供创新解决方案的能力）\n4. 缺乏元数据显示（版本信息、许可证等不完整，无仓库链接）\n5. 代码组织结构不规范（没有标准包管理和模块划分体系）\n这些缺陷表明它无法作为生态重要组件保留。",
+    "metadata": {
+      "author": "2459822546",
+      "name": "fwshz",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-08T16:05:57.260466+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库仅提供查找最小值功能，这属于基础算法且通常由标准库覆盖。文档和描述信息缺失，未体现出优于标准实现或独特价值。关键词和版本信息也未完善，建议不作为生态重点保留。",
+    "metadata": {
+      "author": "BigThree33",
+      "name": "find_min",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-02-28T05:56:12.743277+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该库实现了Lazy初始化功能，但功能过于基础。其README仅两行描述缺乏使用示例和API文档，生态价值不足。核心功能（如延迟计算）通常应由标准库提供或与更高级框架整合。当前实现未展示足够的创新性或者性能优势，难以作为独立重要生态组件保留。",
+    "metadata": {
+      "author": "CAIMEOX",
+      "name": "lazy",
+      "description": "Lazy Initialized Value",
+      "version": "0.1.0",
+      "keywords": [
+        "lazy"
+      ],
+      "createdAt": "2025-03-10T13:28:39.691191+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库虽然展示了包名可支持中文的特性，但缺乏实际功能和文档支持，仅包含一个名为'hello'的值。未体现关键需求或技术优势，文档不齐全且功能过于简单，不适合作为生态中的重要代码库保留。",
+    "metadata": {
+      "author": "CAIMEOX",
+      "name": "原来可以发中文包",
+      "description": "",
+      "version": "0.1.1",
+      "keywords": [],
+      "createdAt": "2025-05-11T11:59:52.944489+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库目前实现的KMP算法属于常见字符串算法，虽然需求真实存在，但通常应由标准库或更全面的算法库提供。项目文档不完整，缺乏详细的使用说明、示例和性能分析，且其他提到的算法如Manacher、AC自动机等尚未完成。此外，代码库未展示独特优化或创新，作为单独生态项目的重要性不足。建议完善功能、文档并添加测试后再评估其价值。",
+    "metadata": {
+      "author": "CMoonBack",
+      "name": "string-Algorithm",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2024-11-27T14:48:40.907576+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库旨在封装现有库 moonbitlang/x/fs 以简化文件操作，但目前提供的功能（如 open、read、write 等基础操作）与底层库的实现重叠度较高，未能体现出明显的附加价值或创新性。文档虽然包含基础用法示例，但缺乏高级用例、错误处理示例或性能优化的说明，无法有效展示其优势。此外，关键功能如错误处理机制未充分展示（示例中直接使用 unwrap 存在隐患），生态系统中若已有成熟文件操作库时，该模块难以形成竞争力。核心文件读写功能通常应由标准库提供，除非本库在易用性/扩展性上有显著提升，当前信息不足以证明其必要性。",
+    "metadata": {
+      "author": "Erolaffy",
+      "name": "easyio",
+      "description": "A simple file operation module",
+      "version": "0.2.1",
+      "keywords": [
+        "easyio",
+        "fs"
+      ],
+      "createdAt": "2025-02-27T01:46:06.101265+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库当前的代码价值不足以作为生态重要项目保留。分析依据如下：1. 核心功能暴露唯一函数'hello'未体现业务价值，类似问候功能的实用性和不可替代性不足；2. 项目文档内容异常（含控制字符\u0016），没有有效说明功能定位和用途；3. 项目结构存在冗余嵌套（Eunoiay/Eunoiay两层同名目录），缺乏合理模块化；4. 版本号为初始0.1.0且近两年无更新，维护状态存疑。综合判断未能证明其解决了实际复杂问题或带来创新方案。",
+    "metadata": {
+      "author": "Eunoiay",
+      "name": "Eunoiay",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-11T14:56:39.635652+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供了质数检测功能，但这是一个常见的需求，通常应由标准库或更综合的数学库覆盖。虽然文档齐全且结构合规，但其功能性单一，缺乏性能优化（如Miller-Rabin测试等），无法作为生态中的重要独立库保留。建议合并到更全面的数学库中以提高生态效率。",
+    "metadata": {
+      "author": "GreyIcesea",
+      "name": "isprime",
+      "description": "A lightweight prime number detection library for MoonBit",
+      "version": "0.1.0",
+      "keywords": [
+        "prime",
+        "math",
+        "number"
+      ],
+      "createdAt": "2025-02-27T15:36:12.439126+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供的Rope数据结构实现基础功能，但存在以下不足：1.项目文档极为简陋（README仅一行标题），缺乏使用说明和技术细节。2.基础功能如length/to_string等存在与标准库重复嫌疑，未见特殊性能优化说明。3.Metadata信息不完整（无仓库地址、关键词、详细描述），项目维护性存疑。4.无测试用例与基准测试数据，代码质量无法验证。5.版本号0.1.0表明尚未进入稳定阶段。作为生态关键组件需更成熟的工程化建设。",
+    "metadata": {
+      "author": "HeChTo",
+      "name": "rope",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-08T09:53:00.178499+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库信息显示存在多项关键缺失：1. 缺少具体功能描述（description为空），难以判断项目定位和实际需求场景 2. 关键词列表为空，文档仅包含基本README文件 3. 仅导出单一的'read'方法，但未说明具体功能实现 4. 没有展示任何算法优化或独特价值，无法验证其是否超越标准库实现 5. 缺少社区认证指标如星标/贡献者等 6. 项目结构过于简单（仅1个lib模块+1个方法），未达到独立生态包的标准",
+    "metadata": {
+      "author": "JPLovever",
+      "name": "fkshz",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-02T13:51:17.010856+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库实现了基本的加减乘除功能，但这些功能通常由编程语言的标准库或基础数学库提供，没有体现出独特或优化的实现。项目文档和说明较为简单，没有展示出特别的需求场景或性能优势。因此，作为生态中的重要代码库保留的必要性不足。",
+    "metadata": {
+      "author": "Kilig",
+      "name": "MATH",
+      "description": "实现加减乘除",
+      "version": "0.1.1",
+      "keywords": [],
+      "createdAt": "2025-03-12T07:46:24.684889+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "虽然Base16编码和解码是一个实用功能，但大多数编程语言的标准库已经提供了成熟的实现。例如，Moonbit语言可能已经在标准库中包含了类似的工具，或者存在更流行、维护更好的第三方库。此外，该代码库的功能相对简单，文档和测试覆盖可能不足，缺乏足够的创新性或优化以区分于现有解决方案。如果标准库或主流社区尚未提供相关支持，且该实现具备显著优势（如性能优化、更友好的API设计），才有保留价值。",
+    "metadata": {
+      "author": "LI7282",
+      "name": "base16",
+      "description": "Implemented Base16 (hexadecimal) encoding and decoding functionality",
+      "version": "0.1.0",
+      "keywords": [
+        "base16"
+      ],
+      "createdAt": "2025-03-02T04:34:17.997501+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库的功能是寻找最大值，这是一个非常基础且常见的需求，通常编程语言的标准库或内置函数已经提供了高效的实现（例如Python的max函数）。虽然该代码库包含README和版本信息，但缺乏具体的实现细节和性能优化的说明，无法证明其相较于标准库有显著优势。此外，文档内容过于简单，未提供使用示例、API说明或贡献指南，难以支持其作为生态重要组件。因此，该代码库在当前形式下不具备保留为重要生态组件的必要性。",
+    "metadata": {
+      "author": "Ljw030710",
+      "name": "find_max",
+      "description": "find the max",
+      "version": "0.1.0",
+      "keywords": [
+        "find-max"
+      ],
+      "createdAt": "2025-02-28T04:32:15.641421+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库作为生态重要项目的评估要素分析：\n\n1. **功能定位问题**：\n   - 主要提供代数结构抽象（如AddGroup/Num等）和基本数值类型实现，这类基础数学抽象通常应由标准库或核心数学库提供。\n   - 当前仅包含Int/Double的简单实现，覆盖类型有限，无创新性代数结构或高性能实现\n\n2. **实现完整性问题**：\n   - MulGroup/AddGroup等关键trait未具体实现，核心功能未完成\n   - 缺乏复合数据类型（如复数/矩阵）的支持，抽象层级较低\n\n3. **生态适配性问题**：\n   - README文档缺失具体使用场景和设计文档\n   - 依赖关系不明确，与Luna Project其他模块的整合路径未说明\n   - 未体现与现有生态系统的互补性（如作为扩展库应有的差异化功能）\n\n4. **代码质量指示**：\n   - 项目处于0.2.0-alpha阶段，成熟度不足\n   - 核心trait的impl存在明显空缺（如AddGroup无实现）\n\n当前状态不符合生态核心库标准，建议作为实验性组件或重新规划功能边界",
+    "metadata": {
+      "author": "Luna-Flow",
+      "name": "luna-generic",
+      "description": "General abstraction and structures for Luna Project",
+      "version": "0.2.0-alpha-1",
+      "keywords": [
+        "math",
+        "algebra"
+      ],
+      "createdAt": "2025-03-25T01:53:50.401427+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库的功能较为基础，主要以数组和数学工具为主，内容过于简单，如arr_sum、clamp、is_between等函数。这些功能通常已由标准库提供，且文档缺失（README无实际内容），缺乏维护迹象（项目自2025年4月创建后无显著更新）。此外，命名为luna-utils但未展示独特生态价值，依赖关系局限于同一组织下的其他项目，并未解决特定领域痛点。核心算法未能展示显著优化或创新，不满足生态重要代码库的标准。",
+    "metadata": {
+      "author": "Luna-Flow",
+      "name": "luna-utils",
+      "description": "A utils library, a part of LunaFlow.",
+      "version": "0.1.0",
+      "keywords": [
+        "utils",
+        "math"
+      ],
+      "createdAt": "2025-04-04T18:26:55.896900+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库目前不足以作为生态中的重要代码库保留。原因如下：1. 缺乏详细的项目描述和文档，README内容极为简单，无法帮助用户理解和使用；2. 功能模块如Task、Person等未见明确且独特的功能定位，可能只是基础功能的简单实现；3. 依赖项如moonchor等可能尚未成熟，且自身未展示出显著的技术优势或创新点；4. 项目结构较为基础，各子模块如store、test等尚未填充实际有价值的内容。需要进一步明确应用场景、完善文档和增强模块的核心竞争力。",
+    "metadata": {
+      "author": "Milky2018",
+      "name": "moonlight",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-05-13T07:11:58.243950+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "虽然该库是一个命令行参数解析器（常见需求），但作者明确在README中标注'Warning: it is for self-use and experimental, not for production'，表明尚未达到生产级稳定性。提供的功能如JSON基础实现可能与成熟的参数解析库存在差距，且文档不完善（仅引导查看测试用例），依赖项单一且社区活跃度不明确。此外，版本迭代均为0.1.x小版本更新，可能表示功能尚不完善，暂不适合作为生态关键组件",
+    "metadata": {
+      "author": "Milky2018",
+      "name": "options",
+      "description": "Command line argument parser for MoonBit",
+      "version": "0.1.2",
+      "keywords": [
+        "CLI",
+        "argument parser",
+        "command line"
+      ],
+      "createdAt": "2025-05-07T08:12:36.242383+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库虽然提供了一些工具函数（如alert、run_async等），但存在以下几个关键问题：\n1. 文档不全。README仅包含“Do you like it?”未提供任何功能说明或使用示例，开发者无法快速理解库的用途和方法。\n2. 功能定位不清晰。核心功能如异步处理等应由成熟库实现，未展示相较于标准库的显著优势或创新点。\n3. 代码贡献度低。版本迭代集中在0.1.x且发布版本间无重大更新，维护持续性存疑。\n4. 未说明具体应用场景。当前提供的工具函数难以满足生态中的核心需求，缺乏不可替代性。",
+    "metadata": {
+      "author": "Milky2018",
+      "name": "toolkit",
+      "description": "Toolkit library for common use.",
+      "version": "0.1.3",
+      "keywords": [
+        "utils",
+        "toolkit"
+      ],
+      "createdAt": "2025-05-13T07:13:48.613061+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库存在多个不符合生态重要保留条件的因素：\n1. 功能规模不足 - 当前模块仅包含一个简单的'hello'函数，属于基础功能范畴，通常应由标准库实现\n2. 文档描述缺失 - README仅含项目名称，没有提供使用说明、接口文档或示例代码\n3. 缺乏维护迹象 - 项目在两年内没有更新记录，关键词和描述字段均为空\n4. 代码结构单一 - 目录层级不清晰，模块划分简单，没有体现出复杂系统的设计\n5. 许可证适当性 - Apache-2.0协议对超小型项目而言略显冗余，没有看到必要的版权声明\n建议：若需保留应增加实用性功能、完善测试和文档，建立可持续维护机制",
+    "metadata": {
+      "author": "Near-Jungnune",
+      "name": "Near-Jungnune",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-09T09:02:35.836780+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "代码库信息显示其功能较为简单，包含如打印函数、数学计算等基础功能（例如sqrt_int、print_zigzag等）。这些功能属于基础工具类，通常应由标准库提供，缺乏独特性或创新性。此外，文档README内容极为简略，未提供有效说明或使用示例，无法帮助用户理解和使用。项目关键词、描述均为空，维护和社区支持信息缺失，说明项目成熟度和维护度不足。综上，该代码库不适合作为生态中的重要项目保留。",
+    "metadata": {
+      "author": "PegasusPlusUS",
+      "name": "hello",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2024-12-06T00:59:15.352703+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "代码库存在多个不达标特征：1. 项目文档极不完善（README仅包含标题），缺乏使用说明和核心功能描述。2. 核心功能定位模糊，values列表中包含 'greeting' 'hello' 等与考试审查无关的功能，表明功能聚焦度严重不足。3. 核心类型设计存在重大缺陷，ExamResult和Student两个类型均为空壳结构，缺乏属性和方法支撑。4. 项目缺乏基础测试验证，版本迭代历史空白。5. 模块分层混乱，lib子模块的hello方法与主功能无逻辑关联。综上所述，该项目无法满足生态库对功能完整性、文档可维护性和架构合理性的基本要求。",
+    "metadata": {
+      "author": "Penguinsltp",
+      "name": "examine",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-04-02T09:19:17.841277+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库缺乏必要的基础信息：1. 项目描述为空（description字段） 2. 版本号处于0.1.0初始阶段，表明项目未成熟 3. 关键词为空（keywords）4. 无开源仓库地址（repository字段）5. README仅包含标题无实质性内容 6. 模块索引中只存在简单测试函数'package_hello'，没有任何有价值的功能实现。综合判断该项目目前处于初始草稿阶段，尚未具备开源生态价值。",
+    "metadata": {
+      "author": "QZL-max",
+      "name": "QZL-max",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-12T13:15:02.476701+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库实现了一个稳定的归并排序算法，虽然归并排序在时间复杂度上为O(n log n)且稳定，但排序算法通常应由标准库提供，除非有显著的优化或特殊功能。代码库的文档非常基础，仅提及了基本功能，缺乏详细的使用说明、API文档和性能测试数据。关键词和描述字段均为空，版本号较低（0.1.0），未提及许可证或仓库信息，显示项目成熟度和维护性不足。没有展示独特的优势或满足未覆盖的需求，因此不适合作为生态中的重要代码库保留。",
+    "metadata": {
+      "author": "Refined_heart",
+      "name": "Sort",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-01-20T07:39:06.996185+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供的功能非常基础，仅包含一个返回 'hello' 的函数，缺乏实际应用场景和独特价值。代码库的文档（README）内容过于简略，没有详细说明使用场景、API文档或贡献指南。关键词和描述字段均为空，缺少必要的元数据支持生态搜索和分类。此类基础功能通常由标准库或成熟工具链覆盖，独立维护缺乏必要性。模块结构和版本管理（0.1.0）也表明项目处于早期实验阶段，未达到生态组件要求的稳定性和深度。",
+    "metadata": {
+      "author": "SeisanSoda",
+      "name": "hello",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-12T17:23:24.141160+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库虽然提供了加载.env文件的功能并具备基本文档，但其作为生态重要库的核心价值存在多个疑问：\n1. 功能范畴较小，标准化可能性高（通常应由标准库或核心框架集成此类功能）\n2. 文档表述存在矛盾（如声称不修改全局环境但API名为'load_and_modify_override'）\n3. 替代方案考量不足（未说明相比现有实现如Rust版本的特殊优势）\n4. 没有体现足够的创新点（变量替换等基础功能已属常见）\n5. 需求真实性问题（MoonBit生态尚在早期可能更需要核心库完善而非细分工具）\n建议作为临时解决方案存在，不宜作为生态核心库长期保留",
+    "metadata": {
+      "author": "ShellWen",
+      "name": "dotenv-mbt",
+      "description": "removed",
+      "version": "0.9.9",
+      "keywords": [
+        "dotenv",
+        "moonbit"
+      ],
+      "createdAt": "2025-03-26T03:00:13.566690+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供计算整数数组的中位数功能。虽然中位数计算是实际存在的需求，但多数编程语言的标准库或常用第三方库已经包含高效实现。此项目提供的功能相对基础，文档仅描述了基本功能，缺乏更详细的用例、性能说明或高级功能（如处理大数组、多种数据类型等）。此外，版本号0.2.0显示项目尚未成熟，且仓库地址为空，社区和维护性存疑。如无特殊优化或独特功能，现有标准库已足够覆盖需求，因此不建议作为生态中的重要代码库保留。",
+    "metadata": {
+      "author": "Tianci-King",
+      "name": "hello",
+      "description": "median",
+      "version": "0.2.0",
+      "keywords": [
+        "median"
+      ],
+      "createdAt": "2025-01-16T15:46:28.100579+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库的功能是计算数组的中位数，这是一个相对基础且常见的数学运算需求。虽然中位数计算在数据分析中有一定应用场景，但大多数主流编程语言的标准库或常用数学库（如Python的statistics/numpy、JavaScript的lodash等）都已提供了高效的实现。\n\n分析其代码库现状：1. 文档仅包含基础说明，缺乏API文档和使用示例；2. 没有显示出性能优化或特殊算法（如流式计算中位数等进阶功能）；3. 版本迭代较少（当前版本0.3.0），社区活跃度不足。\n\n因此建议开发者优先使用语言标准库或成熟的数学库，该独立代码库在生态中的必要性较低，不建议作为重要代码库保留。",
+    "metadata": {
+      "author": "Tianci-King",
+      "name": "median",
+      "description": "计算数组的中位数",
+      "version": "0.3.0",
+      "keywords": [
+        "median"
+      ],
+      "createdAt": "2025-01-16T15:57:43.472065+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库实现了一个使用牛顿迭代法计算平方根的函数，虽然其功能正确，但存在多个问题：1. 文档不完整，README仅有简单代码示例缺乏详细使用说明与API文档；2. 功能过于基础，平方根计算属于编程语言标准库的标配功能（如Python的math.sqrt），重复造轮子价值有限；3. 代码实现缺乏优化亮点，未体现比标准库更优秀的特点（如更高精度或更快速度）；4. 项目结构不完整，无测试用例和性能基准，难以保证可靠性。综合来看不具备作为重要生态库保留的必要性。",
+    "metadata": {
+      "author": "WenqiChen3019",
+      "name": "sqrt",
+      "description": "",
+      "version": "0.1.4",
+      "keywords": [],
+      "createdAt": "2025-01-25T09:36:33.171676+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库的描述、关键词和文档信息都比较缺乏，整体内容较为简单。唯一的函数是'hello'，可能只是一个示例或占位符代码，并未体现具体的功能或解决实际问题的能力。没有明确的说明和实际应用场景，且代码规模过小，不足以作为生态中的重要代码库保留。",
+    "metadata": {
+      "author": "YHSZ-ONEC",
+      "name": "yhsz",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-11T13:41:59.854488+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供了一个模糊搜索的基本实现，但存在以下问题：1. 文档不齐全，README仅包含简单示例，缺少API文档和使用说明；2. 功能实现过于基础，没有展示与现有解决方案的差异化优势；3. 测试用例较为简单，缺乏完整性和性能测试；4. 未明确说明适用场景，常规字符串搜索需求大多数语言标准库已覆盖",
+    "metadata": {
+      "author": "Yoorkin",
+      "name": "fuzzy_search",
+      "description": "",
+      "version": "0.1.1",
+      "keywords": [
+        "search"
+      ],
+      "createdAt": "2025-03-27T05:42:51.310533+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "1. 开发者已弃用并建议用户迁移到其他官方维护模块（moonbitlang/x/stack）\n2. 核心功能为基础数据结构实现，正常情况下应由标准库提供\n3. 文档存在明显维护警告，持续维护性存疑\n4. 无特殊性能优化或扩展功能的说明，缺乏竞争力\n5. 版本迭代停滞，最后一次更新为9个月前（2024-09-04）\n6. 未发现多平台适配、复杂场景优化等不可替代价值",
+    "metadata": {
+      "author": "Yoorkin",
+      "name": "stack",
+      "description": "",
+      "version": "0.1.4",
+      "keywords": [],
+      "createdAt": "2024-09-04T03:19:26.586011+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库的README内容过于简单（仅包含# username/hello），缺乏详细的文档说明。其描述和关键词（test）表明其主要用途可能仅用于测试目的，未明确展示实际需求或独特功能。模块中的功能（如hello函数）未体现出解决复杂问题或提供优于标准库的实现，不符合生态重要代码库的标准。",
+    "metadata": {
+      "author": "Young-Flash",
+      "name": "try_publish",
+      "description": "",
+      "version": "0.1.6",
+      "keywords": [
+        "test"
+      ],
+      "createdAt": "2025-03-05T08:40:07.339267+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供的功能过于简单，仅包含类似问候语（greeting、hello）的函数，没有实际复杂的功能需求。文档内容不完善，README缺乏详细说明和使用指南。没有明确的关键词和项目描述，缺乏社区或生态价值。此类基础功能通常由简单示例或教程涵盖，不需要独立维护为生态中的重要代码库。",
+    "metadata": {
+      "author": "baobolong",
+      "name": "hello",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-11T15:36:48.405017+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库的名称为 'sexp'，可能旨在实现S-表达式的处理。提供的元数据如作者、版本等基础信息齐全，但描述和关键词为空，缺乏对功能和用途的说明。文档中仅有标题，没有详细内容，导致用户无法了解库的实际功能和用法。资源中的源代码文件 'types.mbt' 未公开具体实现，难以评估功能完整性和优化程度。尽管S-表达式在某些领域（如Lisp）很重要，但若无文档和具体实现展示其优势或独特性（如高效性、扩展功能），无法判断其必要性。当前信息不足以证明该库在生态中作为重要组件保留的价值。",
+    "metadata": {
+      "author": "bobzhang",
+      "name": "sexp",
+      "description": "",
+      "version": "0.1.1",
+      "keywords": [],
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供的是一个基础的lower_bound功能实现，虽具备基本的二分查找能力，但存在几个关键问题：1、文档不完整README内容几乎为空，缺乏使用说明及API文档；2、这类算法通常应由标准库统一实现（如大多数语言中的STL或Collections已包含类似功能），除非性能或实现方式上有显著创新但未见描述；3、模块索引显示核心功能代码量可能较小（仅暴露hello和find两个value），功能单一不足以构成独立生态组件；4、缺少必要的单元测试及社区认可迹象。因此作为独立生态库保留的价值较低，更适合作为学习示例或集成到更高层次工具中。",
+    "metadata": {
+      "author": "buggg-hfc",
+      "name": "hello",
+      "description": "A easy lower_bound function",
+      "version": "0.1.1",
+      "keywords": [
+        "lower_bound",
+        "binary find"
+      ],
+      "createdAt": "2025-01-23T13:13:26.074126+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该算法库包含基础的DSU（并查集）和Fenwick Tree（树状数组）实现，此类数据结构属于通用算法组件。文档中仅有Dsu的简单示例且缺乏完整API说明及单元测试覆盖率。现有实现功能较基础，未见创新优化（例如路径压缩、按秩合并等高级特性），难以超越标准库实现。项目仓库无详细文档说明，版本号仅0.1.0，维护性不足。建议优先使用标准库或更成熟的通用算法库。",
+    "metadata": {
+      "author": "chhnb",
+      "name": "algorithm",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-01-18T13:04:29.916901+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库的功能是检查整数是否为质数。虽然基础功能存在，但文档过于简略，仅提供了基本说明，缺乏详细的API文档和使用示例。此外，质数检测作为常见的数学问题，通常应由标准库或成熟的数学库提供，除非实现有显著优化或独特功能。此代码库未体现出性能优化或特殊功能，因此不适合作为生态中的重要代码库保留。",
+    "metadata": {
+      "author": "chronostesis",
+      "name": "check_prime",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-01-18T08:57:50.533686+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供的功能非常简单，仅包含一个'hello'函数，缺乏实际应用场景和必要的文档说明。项目中README内容极为贫乏，无法提供基本使用指南或贡献规范，不符合生态核心库要求的文档完整性。此外，基本打印功能应由语言标准库实现，无需独立维护专门库。版本信息（0.1.0）和未发布的特性表明其处于早期实验阶段，不具备生产级代码的稳定性要求。",
+    "metadata": {
+      "author": "cyhforlight",
+      "name": "moonbit-hello-card",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-02-26T17:08:53.071981+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库存在多个不利于保留为生态重要项目的问题。首先，其元数据信息不完整，包括缺少描述（description）、关键词（keywords）、版本库地址（repository）等关键信息，这会降低项目的可发现性和可信度。其次，代码库提供的唯一函数名为'hello'，功能不明确，可能是简单的示例代码，无法解决实际需求，缺乏实用性和独特性。此外，模块索引显示没有定义任何特性（traits）、类型（types）或类型别名（typealias），表明代码库可能处于早期开发或实验阶段，未形成稳定功能模块。文档方面，README仅包含项目名称，缺乏安装指南、使用示例和API文档，无法有效指导用户使用。综合来看，该项目当前状态不符合生态重要代码库的标准，建议进一步明确需求、完善文档并开发有价值的功能后再考虑保留。",
+    "metadata": {
+      "author": "djisnj",
+      "name": "djisnj",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-11T13:46:47.441234+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库存在多个关键缺陷：1. 核心功能仅有'median'中间值计算功能，属于基础数学范畴且多数语言标准库已覆盖 2. 完全缺乏必要文档说明（README仅包含名称）3. 未提供单元测试和示例代码 4. 版本信息不完整（0.1.1仍属早期阶段）5. 代码结构过于简单且无创新性 6. 模块划分不合理（存在空模块main）。当前状态不能满足生态重要组件标准，建议补充完整功能、文档和测试后再评估。",
+    "metadata": {
+      "author": "dongyvxuan",
+      "name": "dongyx",
+      "description": "",
+      "version": "0.1.1",
+      "keywords": [],
+      "createdAt": "2025-03-05T14:17:47.596817+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库虽然涉及字体处理，但主要功能是为各开源字体提供数据模块而非提供字体处理工具或算法。每个字体模块仅包含一个'font'值，缺乏实际字体操作功能如解析、渲染或转换。文档说明集中在许可证和字体存放位置，缺少API文档和使用示例，开发者无法有效集成和使用。此外，该项目将每种字体分散到不同仓库，维护和扩展性差，且需求较为边缘，标准字体库已能满足大部分需求，生态重要性不足。",
+    "metadata": {
+      "author": "gmlewis",
+      "name": "fonts-p",
+      "description": "Experimental package to manipulate open source font data.",
+      "version": "0.15.11",
+      "keywords": [
+        "html5 canvas",
+        "pdf",
+        "svg",
+        "open source",
+        "fonts"
+      ],
+      "createdAt": "2025-05-09T12:02:37.940424+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库存在以下几个问题：\n1. 项目描述字段完全为空，缺乏基本的项目说明文档。\n2. README内容极其简略，仅包含标题，没有使用说明、功能描述等必要信息。\n3. 代码功能单一，仅包含'greeting'和'hello'这类演示性函数，不具备解决实际问题的技术复杂性。\n4. 未体现出比标准库更优的算法或功能实现。\n5. 缺乏版本迭代、测试覆盖、许可证等重要开源项目元素。\n6. 项目结构和keywords字段均为空白，不利于模块化复用及生态集成。",
+    "metadata": {
+      "author": "hachi",
+      "name": "hello",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-08T15:20:56.400167+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库作为排序算法库，但未展示其相较于标准库或现有库的明显优势。其文档内容匮乏（仅有# hachi/sort），缺乏关键功能描述、实现细节及性能基准。功能方面，当前暴露的值如'hello'和'plus'与排序无关，可能存在代码结构混乱或未完成开发的情况。此外，模块层级设计较简单，未体现出处理复杂排序场景的能力。综合来看，该库尚未达到生态中重要代码库的标准，需完善文档、明确核心价值并验证性能优化点。",
+    "metadata": {
+      "author": "hachi",
+      "name": "sort",
+      "description": "",
+      "version": "0.1.12",
+      "keywords": [],
+      "createdAt": "2025-03-08T15:48:23.168928+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库仅提供摩尔斯电码的编码解码功能，功能较为单一且实现较为基础。CTF工具库通常需要涵盖更广泛的安全领域工具（如加解密、流量分析、逆向工程等），当前功能不足以支撑其作为生态重要代码库。此外，文档和版本信息较为简略（如缺少详细的API文档和使用示例），项目维护和更新情况未知，且社区参与度（如star、fork等指标）未提及，进一步降低其必要性。类似功能可能已存在于更成熟的开源项目（如CyberChef）中。",
+    "metadata": {
+      "author": "hanstechnow",
+      "name": "ctf_tools",
+      "description": "CTF toolkit with morsecode encode/decode.",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-01-15T12:55:49.239999+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库的功能是CLI的求和计算，这类基础功能通常由标准库或更成熟的工具提供，且未见明显优化或独特创新。文档较简陋（如README仅标题），依赖较少但未体现必需性。虽然版本更新显示维护，但未能证明其在生态中的必要性或优势。",
+    "metadata": {
+      "author": "hzqdf",
+      "name": "sum-calc",
+      "description": "A CLI sum calc.",
+      "version": "0.0.20250321",
+      "keywords": [],
+      "createdAt": "2025-03-22T02:01:23.341245+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库虽然尝试提供类似Rust的Copy、Clone等特质和一些类型抽象（如Lazy、Ordering），但存在以下问题：1. 提供的多为基础类型适配实现，无显著创新性，且可能应由标准库提供。2. README文档极为简单，缺少用法示例和设计理念说明。3. 代码库缺乏高价值抽象（如Rep、TypeName等实用价值存疑）。4. 项目描述中提到'以探索语言特性为主、性能不作为优先项'，说明定位是实验性质而非生产级工具。综合来看，暂不具备生态重要代码库的必要性和质量要求。",
+    "metadata": {
+      "author": "illusory0x0",
+      "name": "base",
+      "description": "",
+      "version": "0.2.0",
+      "keywords": [
+        "functional-programming"
+      ],
+      "createdAt": "2025-01-18T21:30:57.473790+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供了类型强制转换功能，类似于Haskell的coerce和C++的reinterpret_cast，这类操作通常属于底层、不安全的编程范畴，应由语言本身或标准库提供，而非独立第三方库。文档仅说明功能而无安全警告，存在潜在风险。代码结构简单，功能单一，未体现创新或优化价值，且容易引发误用和内存安全问题，不适合作为生态重要组件保留。此外，现代编程语言应鼓励类型安全而非强制转换，该库可能违背最佳实践。",
+    "metadata": {
+      "author": "illusory0x0",
+      "name": "coerce",
+      "description": "Provide coerce functions and examples",
+      "version": "0.1.0",
+      "keywords": [
+        "unsafe",
+        "coerce",
+        "intrinsic",
+        "magic"
+      ],
+      "createdAt": "2025-01-20T04:33:18.233966+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库虽然在JavaScript与WASM的绑定上有一定实现，但存在以下问题：1. 文档不完整，README内容缺失，影响开发者使用；2. 实现内容多为类型转换与基础对象封装（如ArrayBuffer、Console等），这些功能通常应由标准库或成熟框架(如wasm-bindgen)提供，重复实现意义不大；3. 类型系统覆盖虽广（如Int/UInt各变种），但对于实际应用场景必要性存疑；4. 未体现性能优化或独特功能，无法成为生态必需组件。建议考虑与现有WASM工具链整合而非独立维护。",
+    "metadata": {
+      "author": "illusory0x0",
+      "name": "jcore",
+      "description": "JavaScript core library' s wasm binding",
+      "version": "0.1.1",
+      "keywords": [
+        "wasm",
+        "ffi",
+        "javascript",
+        "core"
+      ],
+      "createdAt": "2025-03-09T03:27:56.469840+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库虽然实现了惰性求值和递归相关功能，但存在以下几个关键问题：\n1. 核心功能如even/odd判断和斐波那契数列实现过于简单，这类基础功能更适合由语言标准库实现而非第三方库\n2. 文档质量不足，README主要提供示例链接但缺乏API文档和使用说明\n3. 示例代码中提到的解析器实现直接参照其他语言版本，没有体现该库的独特价值\n4. 依赖的运行时环境（如Haskell的Graph Reduction）无法在Moonbit中完全支持，导致真正需要惰性求值的场景实现受限\n5. 提交记录显示自创建以来没有持续维护迹象，作为生态系统重要库需要活跃的维护团队\n从设计定位来看，该类库更应作为语言内置特性而非独立生态组件",
+    "metadata": {
+      "author": "illusory0x0",
+      "name": "lazy",
+      "description": "a lazy library support recursion",
+      "version": "0.1.2",
+      "keywords": [
+        "lazy",
+        "lazy recursion"
+      ],
+      "createdAt": "2025-04-04T00:22:10.991181+00:00",
+      "today": "2025-05-14T02:49:21.554Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库虽然实现了格式化打印功能，但存在多个关键问题：\n1. 文档严重缺失（README为空，无使用说明）\n2. 实现方案未达到生态级要求（依赖项过少，功能覆盖面有限）\n3. 核心功能与主流pretty printer库相比缺乏创新点\n4. 类型系统设计未体现高性能或独特优势\n5. 缺少必要的注释和示例代码\n建议优先使用经过验证的成熟pretty print解决方案，暂不适合作为生态关键组件保留",
+    "metadata": {
+      "author": "illusory0x0",
+      "name": "prettyprinter",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-20T01:13:02.659610+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库缺乏清晰的文档和描述，README内容极为简单，未提供任何使用说明或功能简介。其模块仅包含一个无实际用途的'hello'函数，未体现出解决特定需求的能力。此外，未提及任何独特的算法或优于标准库的实现，且需求场景不明确。因此，无法作为生态中的重要代码库保留。",
+    "metadata": {
+      "author": "jankin_li",
+      "name": "Learn_Test1",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2024-10-21T08:10:16.056674+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库功能极其基础，仅包含'greeting'和'hello'等字符串输出功能，这类简单问候语功能无法构成生态核心组件。说明文档缺失（README仅含基础标题），无详细说明及使用案例。未体现独特算法、业务场景适配或高性能实现，此类功能更适合作为业务代码片段而非独立库。项目信息中keywords/description均为空，缺乏维护迹象，不符合生态重要代码库标准。",
+    "metadata": {
+      "author": "jankin_li",
+      "name": "new_lib",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2024-10-22T02:39:11.341304+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库虽然涉及ISO 3166国家代码的数据处理，但现有实现价值较低。README标记为WIP且内容极为简陋，缺乏维护状态说明和基础文档指引。核心代码仅包含四个查询函数和硬编码数据，未展现高效的查询算法或扩展机制。关键模块如数据更新、错误处理、测试覆盖等均未实现。作为国家代码这种标准化数据集，开发者直接采用官方提供的标准库或成熟第三方库更为可靠。当前版本缺乏持续维护的迹象（如Pull Request机制未有效说明），且未达到替代标准库的技术指标。",
+    "metadata": {
+      "author": "justjoheinz",
+      "name": "iso-country",
+      "description": "A list of country codes and names in ISO 3166 format",
+      "version": "0.1.1",
+      "keywords": [
+        "iso",
+        "country",
+        "countries",
+        "iso3166"
+      ],
+      "createdAt": "2025-02-20T08:43:11.427537+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库目前提供的功能非常基础，仅包含简单的问候函数（例如`greeting`和`hello`），这类功能通常在标准库或更复杂的工具库中存在。文档（README.md）内容极为简单，缺乏使用示例和详细说明，不利于用户理解和使用。此外，未提供代码仓库地址与许可证信息，社区维护性和可信度不足。项目描述和关键词过于笼统，无法明确其核心价值或解决的具体问题。综上所述，其功能和文档均未达到生态重要代码库的标准。",
+    "metadata": {
+      "author": "kinoamyfx",
+      "name": "moon-axe-tools",
+      "description": "",
+      "version": "0.0.1-SNAPSHOT",
+      "keywords": [
+        "lib",
+        "tools",
+        "common"
+      ],
+      "createdAt": "2024-12-02T13:00:38.907603+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库名为nanoid，通常用于生成唯一ID，但现有实现过于简单。根据提供的元数据：1. 文档不完善，README仅包含名称，缺乏使用说明和API文档；2. 代码结构简陋，moduleIndex显示仅有new函数，功能不足；3. 依赖项为空，未集成加密安全方法或优化算法；4. 社区信息缺失，如stars、issues等，活跃度存疑。标准库或成熟库（如原nanoid）已提供更健壮、安全、高效的实现。因此不适合作为生态重要代码库保留。",
+    "metadata": {
+      "author": "ledao",
+      "name": "nanoid",
+      "description": "",
+      "version": "0.1.1",
+      "keywords": [],
+      "createdAt": "2024-12-27T07:03:12.404784+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "代码库缺乏足够的文档和说明，README内容极为简单（只有# username/hello），无法帮助用户理解模块功能和用法；代码库描述的组件如gpio和task，其功能通常是ESP32开发的标准库已经提供的，而该代码库未体现出显著的优化或独特功能；此外，未提供详细的示例或实际应用场景说明，导致难以判断其必要性和优势；版本更新记录显示只有0.1.8和0.1.9且频繁发布，可能稳定性不足，故不适合作为生态重要代码库保留。",
+    "metadata": {
+      "author": "lijunchen",
+      "name": "test_esp32",
+      "description": "",
+      "version": "0.1.9",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "createdAt": "2025-04-14T03:49:27.793421+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "根据提供的代码库信息，作者名为'lijunchen'，项目名称为'test_postadd2'，版本0.1.1，依赖于'lijunchen/test_postadd' 0.1.0。代码库描述为空，README内容为'test postadd script'，缺乏详细文档。项目中仅包含一个值为'hello'的导出函数，功能过于简单且未体现具体应用场景或必要性，类似测试性质的脚本。此外，postadd脚本仅调用Python3执行build.py，无说明实际用途或优化点。未提及任何创新或解决实际问题的功能，无法作为生态中重要代码库保留。",
+    "metadata": {
+      "author": "lijunchen",
+      "name": "test_postadd2",
+      "description": "",
+      "version": "0.1.1",
+      "keywords": [
+        "mooncakes-test"
+      ],
+      "createdAt": "2025-04-15T08:04:05.047942+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库的功能是'在数字的正确位置插入数字'，这属于非常具体且狭窄的应用场景，通常这类功能更适合作为通用工具库的一部分而非独立生态项目。代码库文档异常简单（仅一句描述），缺乏功能示例、API说明和测试用例，生态贡献能力有限。同时数字插入功能实现复杂度较低，容易被其他通用库覆盖，且标准数学库常规情况下不需要此类独立模块。此外版本更新和社区活跃度等信息缺失，难以证明其维护活跃度。",
+    "metadata": {
+      "author": "littleotherut",
+      "name": "digit-insert",
+      "description": "Insert digit into number at the correct position",
+      "version": "0.1.1",
+      "keywords": [],
+      "createdAt": "2025-03-03T14:11:39.285656+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供的功能非常基础，仅包含一个简单的'hello'函数，类似于常见的示例代码。没有明确的关键词、详细描述或文档说明，无法确定其解决了什么具体的、有价值的问题。缺乏文档、测试和实际应用场景支持，且功能过于简单，无法成为生态中的重要部分。",
+    "metadata": {
+      "author": "locing112",
+      "name": "hello",
+      "description": "",
+      "version": "0.1.6",
+      "keywords": [],
+      "createdAt": "2025-02-26T14:11:09.086062+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库的功能是寻找列表中的最小值，这通常是编程语言标准库或基础库中的内置功能（例如Python的min函数），无需额外实现。项目文档极为简单，没有详细说明使用场景、API文档或性能优势，缺乏维护和社区支持的迹象。此外，没有明确的版本更新或贡献记录，说明需求可能已被现有标准库覆盖，生态保留价值低。",
+    "metadata": {
+      "author": "luolingkan",
+      "name": "find_min_num",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-02-28T08:19:22.047929+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供的功能过于基础，仅包含一个名为 'hello' 的函数，没有体现出解决特定需求或复杂问题的能力。文档内容极为简略（仅标题），缺乏使用说明、API文档及示例，无法有效支持开发者集成或贡献。版本信息显示其维护性不足，关键字段如描述、关键词均为空，项目结构和模块索引也未展现创新性或高性能算法。整体来看不具备作为生态重要代码库的条件。",
+    "metadata": {
+      "author": "lyf597",
+      "name": "hello",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-02-27T07:11:09.200855+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库实现了用牛顿迭代法计算的平方根函数，虽然数学方法正确，但存在多个严重缺陷：\n1. 文档不完整（README中未描述参数定义、精度控制方法、接口说明等关键信息）\n2. 核心功能覆盖不足（未处理负数、零值等边缘情况）\n3. 代码结构存疑（存在无关的'hello'导出值）\n4. 缺乏测试用例和性能基准\n5. 未能证明相对于标准库实现的优势\n这类数学函数更适合由语言标准库提供，除非该项目能证明在性能、精度或定制化方面的显著优势。",
+    "metadata": {
+      "author": "misika727",
+      "name": "sqrt",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-11T12:02:37.165588+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库'moonbit-js-ffi/js'主要提供了MoonBit与JavaScript的FFI库的核心函数和类。分析其模块结构和文件，如array.js.mbt、promise.js.mbt等，功能围绕基本JS数据类型的桥接操作。然而存在以下问题：1) 描述空泛，文档不完整，仅提供文件夹指引而无具体使用说明；2) 缺乏独特创新性，类似FFI桥接功能通常由语言运行时或标准库实现，未体现性能优化或高级抽象；3) 代码库规模较小，未体现复杂场景下的生态价值。此外，许可证Apache-2.0虽合规，但无活跃社区或持续维护迹象，难以作为长期生态核心依赖。",
+    "metadata": {
+      "author": "moonbit-js-ffi",
+      "name": "js",
+      "description": "",
+      "version": "0.2.0",
+      "keywords": [],
+      "createdAt": "2024-06-13T15:41:51.834985+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库的目的是提供一个不使用`println`的abort handler，但功能过于简单且应用场景有限。通常，abort处理应由编程语言的标准库或运行时环境提供，确保稳定性和兼容性。当前提供的`abort`函数未展示独特优势或必要创新，文档（如README）内容简短，缺乏详细说明和使用示例，难以作为生态重要组件维护。若需求仅为最小化依赖，可以通过标准库扩展或其他轻量级方案实现，无需独立代码库。",
+    "metadata": {
+      "author": "moonbitlang",
+      "name": "dummy_abort",
+      "description": "",
+      "version": "0.2.0",
+      "keywords": [
+        "abort handler"
+      ],
+      "createdAt": "2025-05-12T08:00:44.027508+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库作为lex运行时的实现，虽然具备词法分析基础功能，但存在以下关键问题：1. 文档严重缺失，README仅有一个标题，没有使用说明和API文档；2. 代码结构简单，功能基础，未展现出优于标准库或其他成熟轮子的竞争力；3. commit记录显示最后一次更新为2025年3月，维护情况存疑；4. 缺少测试用例和示例代码，无法验证可靠性。这类基础组件应优先选用已有成熟解决方案，建议合并到更大的语言工具库或加强自身功能的特有优势。",
+    "metadata": {
+      "author": "moonbitlang",
+      "name": "lex-runtime",
+      "description": "",
+      "version": "0.1.3",
+      "keywords": [],
+      "createdAt": "2025-03-07T13:16:36.623930+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该项目为mbt_lexer词法分析器库，存在以下不足：\n1. 文档缺失：README仅有标题而无实际使用说明\n2. 功能定位不明确：名称显示和ulex相关但依赖项版本较低（ulex 0.1.0），可能属于实验性质\n3. 开发完成度低：版本号0.0.1且代码结构显示大量Show trait包装，核心解析逻辑可能未完善\n4. 未展现创新性：词法生成器属于成熟领域，若仅在标准库包装则生态价值有限\n建议提供完整文档并证明其性能优势后再评估",
+    "metadata": {
+      "author": "moonbitlang",
+      "name": "mbt-lexer",
+      "description": "",
+      "version": "0.0.1",
+      "keywords": [],
+      "createdAt": "2025-03-31T03:07:33.428508+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供的功能主要为词法分析相关的工具，如BytesLexbuf和StringLexbuf的实现，这类基础功能通常应由标准库或主流框架提供以确保兼容性和维护性。然而，当前包缺乏详细的文档（README内容仅标题层级）、版本历史碎片化（存在多个小版本发布记录）、无明确使用场景说明及生态定位，且未展示显著的性能优化或创新设计，因此难以证明其作为独立生态重要组件的必要性。此外，缺少社区贡献和持续维护的迹象也会降低长期保留价值。",
+    "metadata": {
+      "author": "moonbitlang",
+      "name": "ulex-runtime",
+      "description": "",
+      "version": "0.4.1",
+      "keywords": [],
+      "createdAt": "2025-04-21T08:28:20.437751+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供的功能较为基础，仅包含一个名为'hello'的函数，未体现出解决特定复杂需求或创新性。开发者未提供详细的文档描述（README内容简短，缺乏使用方法和示例），且项目缺少关键词、描述和版本更新信息。代码库结构简单，模块功能单一，类似功能通常由语言标准库实现，未展示明显优势或扩展性。整体评估不符合生态重要代码库的标准。",
+    "metadata": {
+      "author": "my-xn",
+      "name": "hello",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-02-28T08:22:35.565745+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库虽然提供了Unicode CaseFold功能，但存在多个关键缺陷：1. 文档不完善（README仅提供生成脚本说明而无API文档和使用示例）2. 核心实现内容不足（源码文件显示可能仅为基本映射表实现）3. 缺少社区验证（仅0.1.x版本且无开源协作迹象）4. 基础功能应优先由标准库承载。与成熟案例(如Rust的unicode-casefold)相比，当前完成度不足以作为生态重要组件保留。",
+    "metadata": {
+      "author": "myfreess",
+      "name": "casefold",
+      "description": "",
+      "version": "0.1.1",
+      "keywords": [],
+      "createdAt": "2025-05-09T09:03:02.528484+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库名为'mbt_LIB'，仅包含一个名为'odd'的功能模块，从描述信息和关键字来看缺乏具体用途说明。根据模块索引显示，当前实现的功能仅包含奇数判断（values:\"odd\"），此类基础功能通常应由标准库提供，无需单独维护。代码库缺乏文档说明（readme_content为空），无版本历史、许可证信息及代码示例，无法证明其独特价值或实现优势。综合判断其功能单一且标准库可替代，不具备作为生态重要代码库保留的价值。",
+    "metadata": {
+      "author": "nanlingyin",
+      "name": "mbt_LIB",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-03T11:33:17.981154+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库缺乏必要的基本维护要素：1、文档内容极度匮乏，仅有一个无实际内容的README文件；2、功能模块存在空白，main包內无有效函数导出；3、项目描述和关键词字段均为空，难以体现实际需求场景；4、作为版本0.1.0的初始项目，代码规模仅含一个基础helloworld函数，无法形成独立生态价值；5、缺乏测试用例和贡献指引，不符合现代开源项目规范。此类基础功能应优先通过语言标准库实现而非独立维护。",
+    "metadata": {
+      "author": "orangenin",
+      "name": "hello",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-09T08:09:56.240504+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库主要包含解决在线判题系统（如OJ）题目的小型算法问题，例如查找唯一数字、格式化数字字符串、有效括号检测等。这些问题多是针对特定编程练习的场景，功能较为基础和零散，未形成通用、高效的算法库或工具。文档部分仅有基础描述，缺乏详细的API和使用说明。虽然部分题目如Gray码、凯撒密码等具有一定的实用性，但整体来看，这些功能更适合作为练习题或教学示例，而非生态中需保留的重要代码库。建议作为学习资源存档，而非持续维护的核心项目。",
+    "metadata": {
+      "author": "pai2shub",
+      "name": "alg",
+      "description": "MoonBit Online Judge Problem Set Solved",
+      "version": "0.1.3",
+      "keywords": [
+        "MoonBit",
+        "Online Judge"
+      ],
+      "createdAt": "2025-03-17T01:37:03.529011+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库虽然提供了一些基于Wasm组件模型的IO和HTTP功能，但其文档不完整（README中列有TODO项且缺少详细说明），功能与WASI标准库重叠，并未展现出明显的优势或扩展性。核心功能可能更适合由标准库实现，且尚未实现同步操作等计划功能，不足以作为生态中的重要代码库保留。",
+    "metadata": {
+      "author": "peter-jerry-ye",
+      "name": "io",
+      "description": "",
+      "version": "0.3.2",
+      "keywords": [],
+      "createdAt": "2025-05-06T06:19:06.626411+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库（js-ffi）的主要功能是允许MoonBit与JavaScript进行交互，属于特定语言间的桥接工具。但存在以下问题：1. 文档不完善，README仅提供警告和简短描述，缺乏具体使用示例和API说明。2. 项目处于alpha阶段，未经过充分测试和生产验证，稳定性存疑。3. 功能覆盖范围有限，当前仅支持基本类型转换和一些对象操作，对于复杂场景（如异步处理、错误处理）的支持不够完善。4. MoonBit可能已有更成熟的标准库或官方推荐的FFI方案，此库缺乏竞争优势。5. 社区活跃度和维护状况不明，存在项目停滞风险。综上，暂时不适合作为生态重要代码库保留，需进一步功能完善和文档增强。",
+    "metadata": {
+      "author": "rami3l",
+      "name": "js-ffi",
+      "description": "",
+      "version": "0.2.4",
+      "keywords": [],
+      "createdAt": "2025-04-24T03:42:34.150769+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库旨在提供国际化(i18n)支持，但存在几个关键问题：1. README内容极为简略，缺乏基本的使用文档和功能说明，不利于开发者理解和使用。2. 模块结构松散，例如`main`模块中没有任何导出值，功能实现不明确。3. 现有功能如`hello`函数可能过于基础，尚未体现国际化所需的复数处理、日期格式化等复杂需求。4. 没有展示与现有生态的整合或独特优势，难以替代成熟的i18n库。因此，当前版本不足以作为生态中的重要代码库保留。",
+    "metadata": {
+      "author": "remain11",
+      "name": "i18n",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-01-17T07:00:07.853896+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "这个代码库提供了在列表中查找最大值的功能。然而，查找最大值是一个基础且常见的需求，通常应由编程语言的标准库提供，例如Python的max()函数。虽然该代码库有文档、版本控制和许可证，但并未展示优于标准库的独特优化或额外功能。在生态系统中保留此类重复功能的代码库必要性不大，除非它能提供显著的性能优势或扩展功能。当前的实现似乎未达到这一标准，因此不建议保留。",
+    "metadata": {
+      "author": "shiheat",
+      "name": "find_max",
+      "description": "find the maximum value in a list",
+      "version": "0.3.0",
+      "keywords": [
+        "find_max"
+      ],
+      "createdAt": "2025-01-17T05:38:08.746793+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "根据提供的代码库信息，项目名称为Calculator，但没有详细的描述和版本说明，文档内容仅有基本的README，无明显维护痕迹（如仓库地址和许可信息不完全）。该库功能为计算器，属于常见工具类，通常应由标准库或成熟第三方库实现。现有资料未能展示其独特优势或创新点，因此不适合作为生态重要项目保留。",
+    "metadata": {
+      "author": "sjzbxhsj",
+      "name": "Calculator",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-01-26T06:44:29.298466+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库在文档和维护状态上存在问题。README内容较为简单，主要是使用说明和开发命令，但关键部分如Usage标记为TODO，缺乏详细的功能说明和API文档。代码库依赖其他特定模块（tiye/quaternion、tiye/dom-ffi），但未提供相关文档或链接，增加了用户理解和使用难度。功能方面，虽然涉及三维图形和数学处理（如四元树、超立方体等），可能满足特定需求，但其实现优劣未明确展示，且属于较为小众的领域，通用性有限。许可证和版本信息完整，但没有社区贡献或测试覆盖信息，维护活跃度不明。综上，文档不完善、依赖不明确及应用场景特殊，不建议作为生态重要代码库保留。",
+    "metadata": {
+      "author": "tiye",
+      "name": "caterfoil",
+      "description": "",
+      "version": "0.0.2",
+      "keywords": [],
+      "createdAt": "2025-01-19T11:20:44.674355+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库为Cirru语言实现的EDN（Extensible Data Notation）解析器，属于特定领域的数据表达式格式支持。但存在以下问题：1. 版本号0.0.8表明项目尚处于早期实验阶段（Experimental port）；2. README中明确标注TODO包含测试和引用实现，说明核心功能尚未完备；3. 文档示例简略，缺乏完整的使用说明和API文档；4. 依赖管理较为薄弱（仅1个解析器依赖）；5. 2025年的创建时间推测可能是mock数据，但结合开发进度判断未达到生态库标准。建议观察发展后再评估。",
+    "metadata": {
+      "author": "tiye",
+      "name": "cirru-edn",
+      "description": "Extensible Data Notation in Cirru",
+      "version": "0.0.8",
+      "keywords": [
+        "cirru",
+        "edn"
+      ],
+      "createdAt": "2025-04-24T17:35:32.451468+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供了生成词汇表分片索引的实现，虽然看起来是解决分布式系统中排序问题的重要功能，但存在以下问题：\n1. 文档缺失：README仅提供基本用法示例，没有详细接口说明、算法原理、性能分析或应用场景指导。\n2. 功能局限性：仅实现两个核心函数key_between和n_key_between，缺乏完善的错误处理机制（仅定义KeyError未说明触发条件）和辅助功能。\n3. 未体现独特优势：类似分片索引算法已广泛用于分布式系统（如CRDTs），但代码库未展示相比现有实现的性能优势或算法创新性。\n4. 关键信息缺失：无测试覆盖率报告、基准测试数据和实际应用案例，难以评估稳定性和可靠性。\n建议补充完整文档、增加测试用例、优化异常处理并发布性能对比数据后再考虑作为生态关键组件。",
+    "metadata": {
+      "author": "tiye",
+      "name": "lexicon-fractional-index",
+      "description": "",
+      "version": "0.0.2",
+      "keywords": [],
+      "createdAt": "2024-11-09T08:21:56.700548+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库名为atomics，提供了原子操作相关的函数如i32_atomic_rmw_cmpxchg、i32_atomic_store等。这类功能通常应由底层语言标准库或运行时环境（如WebAssembly）原生支持，而自行实现的原子操作可能存在兼容性和稳定性风险。文档极度匮乏（README只有占位符），无详细说明和测试用例，缺乏维护迹象（如仓库、许可证信息不完整）。核心功能定位与生态需求重叠，且未体现出优于标准实现的优势，因此不建议保留为重要生态库。",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "atomics",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2024-12-25T09:28:26.604533+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库虽然提供了C语言FFI绑定功能，但定位存在问题。C语言FFI绑定属于底层基础设施，通常应由编程语言标准库或官方工具链提供（如Rust的libc），第三方独立实现的绑定库可能导致兼容性问题和维护困难。当前仓库文档内容单薄缺乏详细功能说明，版本号0.1.13显示尚处早期阶段，模块索引中未发现实际功能结构体或函数暴露。且仓库名称‘c’在包管理系统中可能产生命名冲突，综上判断其生态价值不足建议不保留为重要代码库。",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "c",
+      "description": "FFI Binding to C",
+      "version": "0.1.13",
+      "keywords": [],
+      "createdAt": "2025-04-14T03:11:37.884054+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库的主要功能是提供MoonBit语言与JavaScript的互操作性支持，包括基础类型的转换（如数组、对象、字符串等）以及JavaScript值的封装和转换。这属于语言交互的核心功能，理论上存在真实需求，但分析其实现发现：\n1. 文档非常匮乏，README仅有一句简单描述，缺乏使用示例和API文档；\n2. 核心功能如语言互操作通常应该由标准库或官方工具链提供，社区维护可能难以保证兼容性；\n3. 代码库的代码量较少（仅有几个基础类型的封装），且未体现出明显的创新性或性能优势；\n4. version 0.2.1显示项目尚处早期阶段，生态维护可能不成熟。虽然需求存在，但缺乏必要的文档和官方支持，不建议作为生态重要组件保留。",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "js",
+      "description": "",
+      "version": "0.2.1",
+      "keywords": [],
+      "createdAt": "2025-04-04T08:21:01.438922+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库的文档不齐全，描述和README.md内容非常简略，缺乏必要的使用说明和功能描述。代码提供的内容较少，仅有一个名为hello的函数值，但具体功能不明确。项目缺少足够的关键词和分类信息，难以判断其具体用途和必要性。此外，没有明确的存储库链接，降低了透明度和可维护性。目前的代码量和功能不足以证明其作为生态中重要代码库的保留价值。需要进一步补充文档、明确需求背景和扩展功能模块。",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "submodule-test",
+      "description": "",
+      "version": "0.1.1",
+      "keywords": [],
+      "createdAt": "2025-04-02T06:56:14.553567+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库是Tree-sitter的C语言语法解析器，用于在编辑器等工具中实现语法高亮和代码分析。虽然这类库在生态中有其作用，但可能存在以下问题：1. 作为特定语言的解析器，其需求通常应由标准工具链或广泛维护的社区项目覆盖；2. 代码库依赖他人维护的tree_sitter_language包，可能存在维护风险；3. 文档缺失（readme_content为空），不利于用户理解和使用；4. 虽然版本更新频繁，但未明显提及独特优势或性能提升，难以判断是否优于其他同类实现。建议优先选用更成熟、文档齐全的替代品。",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "tree_sitter_c",
+      "description": "",
+      "version": "0.1.15",
+      "keywords": [],
+      "createdAt": "2025-05-09T09:33:51.566990+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该库 tree_sitter_css 作为 Tree-sitter 的 CSS 语法解析器，属于生态基础设施。功能定位准确且需求真实存在，解析器对 IDE/编辑器语法高亮非常重要。但版本号显示处于开发阶段(0.1.x)，发布历史简单说明社区活跃度不足，文档不完整（readme_content 为空），缺少使用说明和示例，影响开发者集成。虽然核心功能必要但维护状态待观察，建议补充完善文档并建立持续维护机制后保留。",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "tree_sitter_css",
+      "description": "",
+      "version": "0.1.15",
+      "keywords": [],
+      "createdAt": "2025-05-09T09:33:49.679615+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库是为Tree-sitter的Java语法解析器提供绑定，确实解决了特定需求。但检查资源文件发现主要包含语法定义和生成的解析器代码（parser.c, wasm等），这些通常应由Tree-sitter官方维护。虽然版本迭代较多，但文档内容为空（readme_content为空），缺乏使用说明和示例，不符合生态重要项目的文档要求。此外，作为语言解析工具，开发者更倾向使用官方维护的版本以确保兼容性和长期支持。因此该项目缺乏独特性及完善文档，不适合作为生态重要代码库保留。",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "tree_sitter_java",
+      "description": "",
+      "version": "0.1.15",
+      "keywords": [],
+      "createdAt": "2025-05-09T09:33:36.930484+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供了一个树状语法分析语言类型，用于生成的tree-sitter绑定。但存在几个关键问题：1. 缺乏详细说明文档（Readme仅一标题），无法指导用户使用。2. 项目内容过于狭窄，仅定义基础类型且无具体实现示例。3. 实际应用场景不明确，tree-sitter生态已有成熟类型定义，该库未体现差异化优势。4. 未展示性能优化或独特功能，替代性较强。因此该库不具备成为重要生态组件的必要性和竞争力。",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "tree_sitter_language",
+      "description": "",
+      "version": "0.1.1",
+      "keywords": [],
+      "createdAt": "2025-03-02T10:00:19.602947+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库看似是用于处理Markdown内联语法的Tree-sitter语法解析器，通常Tree-sitter需要特定语法定义来支持编辑器的高亮和解析功能。然而，核心问题在于：1. 文档不完整（readme_content为空），缺乏使用说明和示例，难以被开发者有效使用。2. Markdown的内联语法解析已是成熟需求，但大多数主流编辑器或解析库（如remark、markdown-it等）已实现了良好的支持，且Tree-sitter官方可能已有相关实现。3. 包依赖仅有一个内部库，社区维护性和可扩展性存疑。4. 虽然包含WASM文件可能优化了性能，但没有显著优于现有解决方案的证据。综上，该项目在文档、必要性、生态整合等方面存在不足，暂不建议作为重要生态库保留。",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "tree_sitter_markdown_inline",
+      "description": "",
+      "version": "0.1.15",
+      "keywords": [],
+      "createdAt": "2025-05-09T09:33:20.739612+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库tree_sitter_query尽管具备完整的模块结构和发布版本，但其核心功能存在冗余性风险。首先，Tree-sitter作为成熟语法解析工具，查询功能通常应由官方库提供支持，未见文档明确说明相比官方实现的优势。其次，模块索引显示未导出任何有效类型或接口，文档缺失说明具体应用场景。最后，binding.mbt等文件指向语法解析器的直接复用，未见创新性功能实现，无法证明能提供超越原生态系统的价值。建议优先使用官方维护的查询组件。",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "tree_sitter_query",
+      "description": "",
+      "version": "0.1.15",
+      "keywords": [],
+      "createdAt": "2025-05-09T09:33:30.874066+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库 tree_sitter_tsx 是为 Tree-sitter 语法解析器提供 TypeScript TSX 支持的绑定库。虽然 Tree-sitter 是生态中的重要工具，但此类语法解析器绑定通常应由官方或社区广泛维护的项目提供支持。查询其仓库链接实际指向 tree-sitter-typescript 官方仓库，说明该库可能只是官方实现的分包或镜像版本。此外，从元数据看，该库文档缺失（readme_content 为空）、维护者个人账户下发布，依赖单一且版本更新局限于补丁级别，缺乏持续维护的迹象。对于关键基础设施类库，生态更依赖官方统一维护的权威版本，个人镜像库容易导致生态碎片化。因此，该代码库不具备作为重要生态保留的必要性。",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "tree_sitter_tsx",
+      "description": "",
+      "version": "0.1.15",
+      "keywords": [],
+      "createdAt": "2025-05-09T09:33:46.130881+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库虽然提供了一些WebAssembly相关的功能模块（如内存操作、原子操作、数据加载存储等），但存在以下关键问题：1. 项目文档极其匮乏（README仅包含标题），缺乏基本的使用说明和API文档；2. 核心功能重复造轮子，大多数内存操作和数据类型处理本应由WASM标准库或运行时环境提供；3. 缺乏明确的差异化功能，看不出其在生态中的独特价值；4. 代码组织混乱，存在遗留文件（ignore.mbt）未清理。这类基础功能模块更适合作为标准库的补充而非独立生态项目维护。",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "wasm",
+      "description": "",
+      "version": "0.1.3",
+      "keywords": [],
+      "createdAt": "2025-03-18T11:10:25.644457+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供JavaScript互操作的绑定功能，这是一个真实的需求，尤其是在需要与现有JavaScript代码或库集成的场景。然而，存在几个重要问题：1. 文档不齐全，README仅包含基本描述，缺乏使用示例和API文档；2. 功能实现较为基础，目前只涵盖了对象、数组和字符串的基本操作，可能不足以成为生态中的重要依赖；3. 代码库的维护性和社区支持情况不明确，创建时间和更新频率未知，可能影响长期可持续性。建议完善文档并扩展功能后再评估其作为核心库的潜力。",
+    "metadata": {
+      "author": "tonyfettes",
+      "name": "js",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-02-08T01:44:24.718799+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库实现了计数排序、基数排序和桶排序，但排序算法通常应由标准库提供，除非有显著的优化或独特功能。当前版本仅支持整数数组，且计划中的泛型实现尚未完成。虽然提到了低时间复杂度，但未提供具体性能数据或基准测试证明其优势。文档较为基础，缺乏详细的使用示例和API说明，可能会影响开发者采用。此外，未提及与其他库的集成或实际应用场景，难以证明其作为生态中重要代码库的必要性。",
+    "metadata": {
+      "author": "wangjuwudi",
+      "name": "line_sort",
+      "description": "some functions about line sort",
+      "version": "0.1.0",
+      "keywords": [
+        "sort",
+        "low time complexity"
+      ],
+      "createdAt": "2025-02-15T04:15:52.805772+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "根据提供的信息，该代码库名为'compare'，功能可能涉及比较操作，但目前文档仅有一个占位符README，缺乏关键描述、安装说明和用例。元数据中描述字段为空，关键字也未定义，导致用途不明确。提供的函数如'compare_and_print'可能是基础的数值或数据比较功能，这类功能通常已由标准库或常用库覆盖，除非实现方法独特或性能优化显著，但缺乏相关文档证明其优越性。作为生态中的重要代码库需具备明确需求、充分文档和实际应用场景，此项目未达到标准。",
+    "metadata": {
+      "author": "wjy030522",
+      "name": "compare",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-02-09T00:19:19.933826+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供的功能非常简单，仅包含一个问候函数，未体现足够复杂性或独特性。缺乏文档（README内容为空）、仓库链接及详细描述，关键元数据如许可证和版本信息虽存在但未弥补功能单一性问题。此类基础功能更适合整合到现有工具库而非独立维护，建议增加实际功能或文档后重新评估。",
+    "metadata": {
+      "author": "wjy030522",
+      "name": "hello",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-02-09T00:26:24.793249+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库存在多个不适合作为重要生态项目保留的问题：1. 功能代码极为简单（仅一个‘hello’函数），未解决实际复杂需求。2. 项目描述、文档完全缺失（README仅剩标题），不符合开源项目规范。3. 依赖项空白，缺乏生态整合性。4. 关键元信息如许可证声明不完整。5. 未包含任何类型定义或高级功能模块，代码价值过低。此类基础代码更适合作为示例项目而非核心依赖库。",
+    "metadata": {
+      "author": "wstreet",
+      "name": "moontest",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2024-10-21T03:15:18.852797+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供的字符串转整数功能是编程中常见的需求，通常由标准库或内置函数实现（如JavaScript的parseInt、Python的int()）。没有明显的性能优化或扩展功能说明（如自定义进制解析、错误处理增强），且文档和资源信息较为基础。此类基础转换功能建议直接使用语言原生支持方案，单独维护生态包的收益较低。",
+    "metadata": {
+      "author": "wwj1203",
+      "name": "string2int",
+      "description": "This is a package that make a string to integer conversion.",
+      "version": "0.1.0",
+      "keywords": [
+        "string2int"
+      ],
+      "createdAt": "2025-01-21T14:15:17.500549+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库存在以下问题：1. 缺乏关键文档，README内容极其简单，未描述功能和使用方法；2. 代码库功能模糊，模块仅包含'greeting'和'hello'等演示性函数，未体现实际应用场景；3. 依赖关系薄弱（仅依赖一个未知库），且未展示独特技术优势；4. 未提供版本更新说明和社区贡献指南，生态价值不足。",
+    "metadata": {
+      "author": "wzzc-dev",
+      "name": "teager",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-02-22T07:19:19.104379+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库作为生态中的重要代码库存在的理由不足。首先，描述、关键词和文档几乎为空，导致用户难以理解项目用途和功能。其次，虽然涉及Webview和FFI，但现有功能如创建、销毁、运行窗口和设置基本属性，多为基础操作，且没有展示创新点或优于现有解决方案的地方。第三方Webview库（如webview、tauri等）通常功能更丰富、文档完善且社区活跃。此外，项目缺乏明确的用例或独特价值，难以吸引开发者和维护者，贡献度有限。因此，除非项目能显著提升功能或文档，否则不适合作为重要生态库保留。",
+    "metadata": {
+      "author": "wzzc-dev",
+      "name": "webview-ffi",
+      "description": "",
+      "version": "0.1.1",
+      "keywords": [],
+      "createdAt": "2025-03-07T05:58:58.518561+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库不具备作为生态重要组件保留的条件。主要问题包括：1. 项目描述缺失（description为空）且缺乏完善的文档说明（README仅包含简单命令无功能描述）；2. 代码量过少（仅含hello函数且结构简单）功能单一，主要用作示例demo；3. 核心功能依赖第三方库webview-ffi，未体现出独特的实现价值；4. 无版本更新记录且缺乏测试构建流程说明，维护性不足；5. 类似网页视图功能应由成熟框架实现，当前实现未展示优化或创新之处。综上，该项目更适合作为示例代码而非生态基石。",
+    "metadata": {
+      "author": "wzzc-dev",
+      "name": "webview-mbt-demo",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-05T02:39:18.680768+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "这个代码库提供了一个计算数组元素和的函数，但功能过于简单，属于基础操作。类似功能通常由标准库提供，无需单独维护。文档中存在版本号不一致（0.2.2 vs 0.1.1）、仓库地址混乱等问题，且描述信息不完整。项目结构仅包含少数基础函数，缺乏复杂性和实用价值，不符合生态重要代码库标准。",
+    "metadata": {
+      "author": "xavier865",
+      "name": "hello",
+      "description": "",
+      "version": "0.2.2",
+      "keywords": [],
+      "createdAt": "2025-01-24T13:30:42.611548+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供的功能非常有限，仅包含一个名为'hello'的函数，文档和描述均不完善。README内容不完整且存在乱码，缺乏基本的使用说明和示例。此外，没有明确的需求场景或问题解决目标，无法确定其实用性。因此，该代码库不符合作为重要生态项目保留的标准。",
+    "metadata": {
+      "author": "xing0818",
+      "name": "xing0818",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-11T13:31:44.729211+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库实现了数组的排列相关功能，包括生成下一个/上一个字典序排列和检查排列关系。虽然这些功能在某些场景下有用，但通常属于标准库或算法库的范畴，比如C++的STL就有`next_permutation`和`prev_permutation`。除非实现具有显著的性能优化或Moonbit语言缺乏标准库支持，否则作为独立生态库的必要性不足。此外，文档虽然提供了基本示例，但缺乏深入的API说明、性能基准测试和贡献指南，降低了长期维护的可能性。建议评估Moonbit标准库是否已涵盖此类功能，若未覆盖则需要补充更完整的文档和测试用例以增强生态价值。",
+    "metadata": {
+      "author": "xunyoyo",
+      "name": "permutation",
+      "description": "Array permutation.",
+      "version": "0.1.3",
+      "keywords": [],
+      "createdAt": "2024-11-17T16:19:56.797966+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库作为MoonBit包管理示例文件，功能单一且示范性质明显，主要展示模块导入和基本问候功能。虽文档结构清晰，但核心功能过于基础（打印问候语），类似功能通常应由标准库实现或作为教学案例。未体现高性能算法或复杂场景解决能力，不具备生态重要代码库的必要性。",
+    "metadata": {
+      "author": "yangqing",
+      "name": "hello",
+      "description": "MoonBit package management example file.",
+      "version": "0.2.2",
+      "keywords": [
+        "hello",
+        "greeting",
+        "moonbit"
+      ],
+      "createdAt": "2024-09-26T08:29:03.308888+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供了min和max功能，这些功能通常是编程语言标准库中的基础功能。作者提供的文档信息不足（仅含有空描述和基础README），且代码库没有体现显著的性能优化、特殊算法或扩展功能。代码库缺乏实际生态价值，建议优先使用语言内置函数或更成熟的数值处理库。",
+    "metadata": {
+      "author": "yanyeting",
+      "name": "minmax",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-03T14:38:28.199589+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库作为树状数组的实现，其核心功能可能已由标准库或其他成熟库提供。文档不足（仅README内容为‘树状数组’），缺乏详细说明和使用示例，难以支持用户有效使用。代码库结构简单，提供的功能模块中只有`lib`模块包含一个`hello`值，未展示实际实现的树状数组功能，可能未完成或功能不完整。此外，版本号0.1.1表明项目处于早期阶段，稳定性和可靠性存疑。综合来看，当前状态不足以成为生态中的重要代码库。",
+    "metadata": {
+      "author": "yueTc",
+      "name": "Binary-Indexed-Tree",
+      "description": "",
+      "version": "0.1.1",
+      "keywords": [],
+      "createdAt": "2025-02-27T12:22:58.365476+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库目前作为生态重要项目的保留价值不足，主要原因如下：\n1. 功能定位不明确：虽标注为\"Personal Utils\"，但实现了Monad transformers (如Reader)、容器类型(如Many)、字符串处理(Hex/ULID)等较为通用的函数式编程工具，但缺乏核心创新点，与现有moonbit生态的标准库和主流第三方库存在较大重叠。\n2. 文档严重缺失：README仅有一个WIP标题，无任何使用说明、API文档或示例代码，极大阻碍开发者采用和维护。\n3. 结构合理性存疑：如同时存在Predicate和Prediate（疑似拼写错误）类型，Ulid模块与标准UUID库功能重复但实现不完善，存在代码质量问题。\n4. 应用场景不清晰：虽包含实用工具，但未能体现解决特定领域痛点的能力，例如cedar前缀树模块未与具体应用场景（如路由匹配）深度整合，难以体现独特性。",
+    "metadata": {
+      "author": "yuyi919",
+      "name": "shared-lib",
+      "description": "[WIP] Personal Utils",
+      "version": "0.1.6",
+      "keywords": [
+        "utility"
+      ],
+      "createdAt": "2025-03-26T03:19:59.618539+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库提供的功能为'hello'，通常是一个简单的示例或测试项目，缺乏实际生产价值。没有详细文档描述（README内容仅有标题），未提及解决的问题或独特优势，需求场景不明确。作为模块没有展示高级功能或优于标准库的实现，不足以成为生态中的重要项目。建议补充实际功能和完善文档后再评估。",
+    "metadata": {
+      "author": "yxsql74",
+      "name": "hello",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-03-06T12:01:42.137785+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  },
+  {
+    "verify": false,
+    "reason": "该代码库的功能是计算阶乘，这是一个非常基础且常见的数学运算，通常在编程语言的标准库或数学库中都有实现。代码库的文档非常简单，仅有最基本的README文件且内容为空，缺乏使用示例、API文档和贡献指南等重要信息。项目的元数据中缺少描述、关键词和仓库链接，这降低了其可发现性和可信度。此外，除非该实现有特殊的优化或算法改进（如并行计算、大数处理等），否则作为独立生态库的价值有限。建议将此功能整合到更广泛的数学工具库中，而非单独维护。",
+    "metadata": {
+      "author": "zhangshun-123",
+      "name": "factorial",
+      "description": "",
+      "version": "0.1.0",
+      "keywords": [],
+      "createdAt": "2025-02-24T09:53:38.805498+00:00",
+      "today": "2025-05-14T02:49:21.555Z"
+    }
+  }
+]
