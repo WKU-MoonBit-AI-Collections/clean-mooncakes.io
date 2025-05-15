@@ -4812,6 +4812,15 @@ function moonbitlang$core$option$$Option$unwrap$9$(self) {
     return _x;
   }
 }
+function moonbitlang$core$option$$Option$unwrap$10$(self) {
+  if (self === -1) {
+    return $panic();
+  } else {
+    const _Some = self;
+    const _x = _Some;
+    return _x;
+  }
+}
 function moonbitlang$core$option$$Option$unwrap$16$(self) {
   if (self === undefined) {
     return $panic();
@@ -9050,6 +9059,20 @@ function moonbitlang$core$double$$Double$convert_uint64(value) {
 }
 function moonbitlang$core$int64$$Int64$reinterpret_as_double(self) {
   return moonbitlang$core$builtin$$MyInt64$reinterpret_as_double(self);
+}
+function moonbitlang$core$int$$Int$to_char(self) {
+  _L: {
+    if (self >= 0 && self <= 55295) {
+      break _L;
+    } else {
+      if (self >= 57344 && self <= 1114111) {
+        break _L;
+      } else {
+        return -1;
+      }
+    }
+  }
+  return self;
 }
 function moonbitlang$core$uint64$$UInt64$to_byte(self) {
   return moonbitlang$core$uint64$$UInt64$to_int(self) & 255;
@@ -14134,7 +14157,7 @@ function moonbitlang$core$array$$ArrayView$rev_inplace$40$(self) {
     }
   }
 }
-function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4577(_env, a, b) {
+function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4582(_env, a, b) {
   const cmp = _env._2;
   const arr = _env._1;
   const swaps = _env._0;
@@ -14146,10 +14169,10 @@ function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4577(_env, a, b) {
     return;
   }
 }
-function moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4578(_env, a, b, c) {
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4577(_env, a, b);
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4577(_env, b, c);
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4577(_env, a, b);
+function moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4583(_env, a, b, c) {
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4582(_env, a, b);
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4582(_env, b, c);
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4582(_env, a, b);
 }
 function moonbitlang$core$array$$choose_pivot_by$24$(arr, cmp) {
   const len = moonbitlang$core$array$$ArrayView$length$24$(arr);
@@ -14160,11 +14183,11 @@ function moonbitlang$core$array$$choose_pivot_by$24$(arr, cmp) {
     const c = Math.imul(len / 4 | 0, 3) | 0;
     const _env = { _0: swaps, _1: arr, _2: cmp };
     if (len > 50) {
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4578(_env, a - 1 | 0, a, a + 1 | 0);
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4578(_env, b - 1 | 0, b, b + 1 | 0);
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4578(_env, c - 1 | 0, c, c + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4583(_env, a - 1 | 0, a, a + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4583(_env, b - 1 | 0, b, b + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4583(_env, c - 1 | 0, c, c + 1 | 0);
     }
-    moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4578(_env, a, b, c);
+    moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4583(_env, a, b, c);
   }
   if (swaps.val === 12) {
     moonbitlang$core$array$$ArrayView$rev_inplace$24$(arr);
@@ -14173,7 +14196,7 @@ function moonbitlang$core$array$$choose_pivot_by$24$(arr, cmp) {
     return { _0: b, _1: swaps.val === 0 };
   }
 }
-function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4597(_env, a, b) {
+function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4602(_env, a, b) {
   const cmp = _env._2;
   const arr = _env._1;
   const swaps = _env._0;
@@ -14185,10 +14208,10 @@ function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4597(_env, a, b) {
     return;
   }
 }
-function moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4598(_env, a, b, c) {
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4597(_env, a, b);
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4597(_env, b, c);
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4597(_env, a, b);
+function moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4603(_env, a, b, c) {
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4602(_env, a, b);
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4602(_env, b, c);
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4602(_env, a, b);
 }
 function moonbitlang$core$array$$choose_pivot_by$26$(arr, cmp) {
   const len = moonbitlang$core$array$$ArrayView$length$26$(arr);
@@ -14199,11 +14222,11 @@ function moonbitlang$core$array$$choose_pivot_by$26$(arr, cmp) {
     const c = Math.imul(len / 4 | 0, 3) | 0;
     const _env = { _0: swaps, _1: arr, _2: cmp };
     if (len > 50) {
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4598(_env, a - 1 | 0, a, a + 1 | 0);
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4598(_env, b - 1 | 0, b, b + 1 | 0);
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4598(_env, c - 1 | 0, c, c + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4603(_env, a - 1 | 0, a, a + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4603(_env, b - 1 | 0, b, b + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4603(_env, c - 1 | 0, c, c + 1 | 0);
     }
-    moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4598(_env, a, b, c);
+    moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4603(_env, a, b, c);
   }
   if (swaps.val === 12) {
     moonbitlang$core$array$$ArrayView$rev_inplace$26$(arr);
@@ -14212,7 +14235,7 @@ function moonbitlang$core$array$$choose_pivot_by$26$(arr, cmp) {
     return { _0: b, _1: swaps.val === 0 };
   }
 }
-function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4617(_env, a, b) {
+function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4622(_env, a, b) {
   const cmp = _env._2;
   const arr = _env._1;
   const swaps = _env._0;
@@ -14224,10 +14247,10 @@ function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4617(_env, a, b) {
     return;
   }
 }
-function moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4618(_env, a, b, c) {
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4617(_env, a, b);
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4617(_env, b, c);
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4617(_env, a, b);
+function moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4623(_env, a, b, c) {
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4622(_env, a, b);
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4622(_env, b, c);
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4622(_env, a, b);
 }
 function moonbitlang$core$array$$choose_pivot_by$28$(arr, cmp) {
   const len = moonbitlang$core$array$$ArrayView$length$28$(arr);
@@ -14238,11 +14261,11 @@ function moonbitlang$core$array$$choose_pivot_by$28$(arr, cmp) {
     const c = Math.imul(len / 4 | 0, 3) | 0;
     const _env = { _0: swaps, _1: arr, _2: cmp };
     if (len > 50) {
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4618(_env, a - 1 | 0, a, a + 1 | 0);
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4618(_env, b - 1 | 0, b, b + 1 | 0);
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4618(_env, c - 1 | 0, c, c + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4623(_env, a - 1 | 0, a, a + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4623(_env, b - 1 | 0, b, b + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4623(_env, c - 1 | 0, c, c + 1 | 0);
     }
-    moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4618(_env, a, b, c);
+    moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4623(_env, a, b, c);
   }
   if (swaps.val === 12) {
     moonbitlang$core$array$$ArrayView$rev_inplace$28$(arr);
@@ -14251,7 +14274,7 @@ function moonbitlang$core$array$$choose_pivot_by$28$(arr, cmp) {
     return { _0: b, _1: swaps.val === 0 };
   }
 }
-function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4637(_env, a, b) {
+function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4642(_env, a, b) {
   const cmp = _env._2;
   const arr = _env._1;
   const swaps = _env._0;
@@ -14263,10 +14286,10 @@ function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4637(_env, a, b) {
     return;
   }
 }
-function moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4638(_env, a, b, c) {
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4637(_env, a, b);
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4637(_env, b, c);
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4637(_env, a, b);
+function moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4643(_env, a, b, c) {
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4642(_env, a, b);
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4642(_env, b, c);
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4642(_env, a, b);
 }
 function moonbitlang$core$array$$choose_pivot_by$30$(arr, cmp) {
   const len = moonbitlang$core$array$$ArrayView$length$30$(arr);
@@ -14277,11 +14300,11 @@ function moonbitlang$core$array$$choose_pivot_by$30$(arr, cmp) {
     const c = Math.imul(len / 4 | 0, 3) | 0;
     const _env = { _0: swaps, _1: arr, _2: cmp };
     if (len > 50) {
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4638(_env, a - 1 | 0, a, a + 1 | 0);
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4638(_env, b - 1 | 0, b, b + 1 | 0);
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4638(_env, c - 1 | 0, c, c + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4643(_env, a - 1 | 0, a, a + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4643(_env, b - 1 | 0, b, b + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4643(_env, c - 1 | 0, c, c + 1 | 0);
     }
-    moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4638(_env, a, b, c);
+    moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4643(_env, a, b, c);
   }
   if (swaps.val === 12) {
     moonbitlang$core$array$$ArrayView$rev_inplace$30$(arr);
@@ -14290,7 +14313,7 @@ function moonbitlang$core$array$$choose_pivot_by$30$(arr, cmp) {
     return { _0: b, _1: swaps.val === 0 };
   }
 }
-function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4657(_env, a, b) {
+function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4662(_env, a, b) {
   const cmp = _env._2;
   const arr = _env._1;
   const swaps = _env._0;
@@ -14302,10 +14325,10 @@ function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4657(_env, a, b) {
     return;
   }
 }
-function moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4658(_env, a, b, c) {
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4657(_env, a, b);
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4657(_env, b, c);
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4657(_env, a, b);
+function moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4663(_env, a, b, c) {
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4662(_env, a, b);
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4662(_env, b, c);
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4662(_env, a, b);
 }
 function moonbitlang$core$array$$choose_pivot_by$32$(arr, cmp) {
   const len = moonbitlang$core$array$$ArrayView$length$32$(arr);
@@ -14316,11 +14339,11 @@ function moonbitlang$core$array$$choose_pivot_by$32$(arr, cmp) {
     const c = Math.imul(len / 4 | 0, 3) | 0;
     const _env = { _0: swaps, _1: arr, _2: cmp };
     if (len > 50) {
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4658(_env, a - 1 | 0, a, a + 1 | 0);
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4658(_env, b - 1 | 0, b, b + 1 | 0);
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4658(_env, c - 1 | 0, c, c + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4663(_env, a - 1 | 0, a, a + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4663(_env, b - 1 | 0, b, b + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4663(_env, c - 1 | 0, c, c + 1 | 0);
     }
-    moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4658(_env, a, b, c);
+    moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4663(_env, a, b, c);
   }
   if (swaps.val === 12) {
     moonbitlang$core$array$$ArrayView$rev_inplace$32$(arr);
@@ -14329,7 +14352,7 @@ function moonbitlang$core$array$$choose_pivot_by$32$(arr, cmp) {
     return { _0: b, _1: swaps.val === 0 };
   }
 }
-function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4677(_env, a, b) {
+function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4682(_env, a, b) {
   const cmp = _env._2;
   const arr = _env._1;
   const swaps = _env._0;
@@ -14341,10 +14364,10 @@ function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4677(_env, a, b) {
     return;
   }
 }
-function moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4678(_env, a, b, c) {
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4677(_env, a, b);
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4677(_env, b, c);
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4677(_env, a, b);
+function moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4683(_env, a, b, c) {
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4682(_env, a, b);
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4682(_env, b, c);
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4682(_env, a, b);
 }
 function moonbitlang$core$array$$choose_pivot_by$34$(arr, cmp) {
   const len = moonbitlang$core$array$$ArrayView$length$34$(arr);
@@ -14355,11 +14378,11 @@ function moonbitlang$core$array$$choose_pivot_by$34$(arr, cmp) {
     const c = Math.imul(len / 4 | 0, 3) | 0;
     const _env = { _0: swaps, _1: arr, _2: cmp };
     if (len > 50) {
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4678(_env, a - 1 | 0, a, a + 1 | 0);
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4678(_env, b - 1 | 0, b, b + 1 | 0);
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4678(_env, c - 1 | 0, c, c + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4683(_env, a - 1 | 0, a, a + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4683(_env, b - 1 | 0, b, b + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4683(_env, c - 1 | 0, c, c + 1 | 0);
     }
-    moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4678(_env, a, b, c);
+    moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4683(_env, a, b, c);
   }
   if (swaps.val === 12) {
     moonbitlang$core$array$$ArrayView$rev_inplace$34$(arr);
@@ -14368,7 +14391,7 @@ function moonbitlang$core$array$$choose_pivot_by$34$(arr, cmp) {
     return { _0: b, _1: swaps.val === 0 };
   }
 }
-function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4697(_env, a, b) {
+function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4702(_env, a, b) {
   const cmp = _env._2;
   const arr = _env._1;
   const swaps = _env._0;
@@ -14380,10 +14403,10 @@ function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4697(_env, a, b) {
     return;
   }
 }
-function moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4698(_env, a, b, c) {
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4697(_env, a, b);
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4697(_env, b, c);
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4697(_env, a, b);
+function moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4703(_env, a, b, c) {
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4702(_env, a, b);
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4702(_env, b, c);
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4702(_env, a, b);
 }
 function moonbitlang$core$array$$choose_pivot_by$36$(arr, cmp) {
   const len = moonbitlang$core$array$$ArrayView$length$36$(arr);
@@ -14394,11 +14417,11 @@ function moonbitlang$core$array$$choose_pivot_by$36$(arr, cmp) {
     const c = Math.imul(len / 4 | 0, 3) | 0;
     const _env = { _0: swaps, _1: arr, _2: cmp };
     if (len > 50) {
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4698(_env, a - 1 | 0, a, a + 1 | 0);
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4698(_env, b - 1 | 0, b, b + 1 | 0);
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4698(_env, c - 1 | 0, c, c + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4703(_env, a - 1 | 0, a, a + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4703(_env, b - 1 | 0, b, b + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4703(_env, c - 1 | 0, c, c + 1 | 0);
     }
-    moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4698(_env, a, b, c);
+    moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4703(_env, a, b, c);
   }
   if (swaps.val === 12) {
     moonbitlang$core$array$$ArrayView$rev_inplace$36$(arr);
@@ -14407,7 +14430,7 @@ function moonbitlang$core$array$$choose_pivot_by$36$(arr, cmp) {
     return { _0: b, _1: swaps.val === 0 };
   }
 }
-function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4717(_env, a, b) {
+function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4722(_env, a, b) {
   const cmp = _env._2;
   const arr = _env._1;
   const swaps = _env._0;
@@ -14419,10 +14442,10 @@ function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4717(_env, a, b) {
     return;
   }
 }
-function moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4718(_env, a, b, c) {
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4717(_env, a, b);
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4717(_env, b, c);
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4717(_env, a, b);
+function moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4723(_env, a, b, c) {
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4722(_env, a, b);
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4722(_env, b, c);
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4722(_env, a, b);
 }
 function moonbitlang$core$array$$choose_pivot_by$38$(arr, cmp) {
   const len = moonbitlang$core$array$$ArrayView$length$38$(arr);
@@ -14433,11 +14456,11 @@ function moonbitlang$core$array$$choose_pivot_by$38$(arr, cmp) {
     const c = Math.imul(len / 4 | 0, 3) | 0;
     const _env = { _0: swaps, _1: arr, _2: cmp };
     if (len > 50) {
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4718(_env, a - 1 | 0, a, a + 1 | 0);
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4718(_env, b - 1 | 0, b, b + 1 | 0);
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4718(_env, c - 1 | 0, c, c + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4723(_env, a - 1 | 0, a, a + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4723(_env, b - 1 | 0, b, b + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4723(_env, c - 1 | 0, c, c + 1 | 0);
     }
-    moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4718(_env, a, b, c);
+    moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4723(_env, a, b, c);
   }
   if (swaps.val === 12) {
     moonbitlang$core$array$$ArrayView$rev_inplace$38$(arr);
@@ -14446,7 +14469,7 @@ function moonbitlang$core$array$$choose_pivot_by$38$(arr, cmp) {
     return { _0: b, _1: swaps.val === 0 };
   }
 }
-function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4737(_env, a, b) {
+function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4742(_env, a, b) {
   const cmp = _env._2;
   const arr = _env._1;
   const swaps = _env._0;
@@ -14458,10 +14481,10 @@ function moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4737(_env, a, b) {
     return;
   }
 }
-function moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4738(_env, a, b, c) {
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4737(_env, a, b);
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4737(_env, b, c);
-  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4737(_env, a, b);
+function moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4743(_env, a, b, c) {
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4742(_env, a, b);
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4742(_env, b, c);
+  moonbitlang$core$array$$choose_pivot_by$46$sort_2$47$4742(_env, a, b);
 }
 function moonbitlang$core$array$$choose_pivot_by$40$(arr, cmp) {
   const len = moonbitlang$core$array$$ArrayView$length$40$(arr);
@@ -14472,11 +14495,11 @@ function moonbitlang$core$array$$choose_pivot_by$40$(arr, cmp) {
     const c = Math.imul(len / 4 | 0, 3) | 0;
     const _env = { _0: swaps, _1: arr, _2: cmp };
     if (len > 50) {
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4738(_env, a - 1 | 0, a, a + 1 | 0);
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4738(_env, b - 1 | 0, b, b + 1 | 0);
-      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4738(_env, c - 1 | 0, c, c + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4743(_env, a - 1 | 0, a, a + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4743(_env, b - 1 | 0, b, b + 1 | 0);
+      moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4743(_env, c - 1 | 0, c, c + 1 | 0);
     }
-    moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4738(_env, a, b, c);
+    moonbitlang$core$array$$choose_pivot_by$46$sort_3$47$4743(_env, a, b, c);
   }
   if (swaps.val === 12) {
     moonbitlang$core$array$$ArrayView$rev_inplace$40$(arr);
@@ -17990,7 +18013,7 @@ function Yoorkin$rabbit$45$tea$internal$vdom$$variant_to_js_value(value) {
     }
   }
 }
-function Yoorkin$rabbit$45$tea$internal$vdom$$to_node$46$attach_attrs$47$6023(sandbox, attrs, element, generated_listeners) {
+function Yoorkin$rabbit$45$tea$internal$vdom$$to_node$46$attach_attrs$47$6028(sandbox, attrs, element, generated_listeners) {
   const _p = attrs.length;
   let _tmp = 0;
   while (true) {
@@ -18094,7 +18117,7 @@ function Yoorkin$rabbit$45$tea$internal$vdom$$Node$to_node$366$(self, sandbox) {
                 switch (_tag) {
                   case "a": {
                     const element$2 = Yoorkin$rabbit$45$tea$dom$$Document$create_element(Yoorkin$rabbit$45$tea$dom$$document(), _tag);
-                    Yoorkin$rabbit$45$tea$internal$vdom$$to_node$46$attach_attrs$47$6023(sandbox, _attrs, element$2, _listeners);
+                    Yoorkin$rabbit$45$tea$internal$vdom$$to_node$46$attach_attrs$47$6028(sandbox, _attrs, element$2, _listeners);
                     Yoorkin$rabbit$45$tea$dom$$EventTarget$add_event_listener(Yoorkin$rabbit$45$tea$dom$$Node$to_event_target(Yoorkin$rabbit$45$tea$dom$$Element$to_node(element$2)), "click", (event) => {
                       Yoorkin$rabbit$45$tea$dom$$Event$prevent_default(event);
                       const href = Yoorkin$rabbit$45$tea$dom$$Element$get_property(element$2, "href");
@@ -18132,13 +18155,13 @@ function Yoorkin$rabbit$45$tea$internal$vdom$$Node$to_node$366$(self, sandbox) {
               break _L$3;
             }
             const element$2 = Yoorkin$rabbit$45$tea$dom$$Document$create_element(Yoorkin$rabbit$45$tea$dom$$document(), "a");
-            Yoorkin$rabbit$45$tea$internal$vdom$$to_node$46$attach_attrs$47$6023(sandbox, _attrs, element$2, _listeners);
+            Yoorkin$rabbit$45$tea$internal$vdom$$to_node$46$attach_attrs$47$6028(sandbox, _attrs, element$2, _listeners);
             element = element$2;
           }
           break _L;
         }
         const element$2 = Yoorkin$rabbit$45$tea$dom$$Document$create_element(Yoorkin$rabbit$45$tea$dom$$document(), _tag);
-        Yoorkin$rabbit$45$tea$internal$vdom$$to_node$46$attach_attrs$47$6023(sandbox, _attrs, element$2, _listeners);
+        Yoorkin$rabbit$45$tea$internal$vdom$$to_node$46$attach_attrs$47$6028(sandbox, _attrs, element$2, _listeners);
         element = element$2;
       }
       const _len = _childrens.length;
@@ -18166,7 +18189,7 @@ function Yoorkin$rabbit$45$tea$internal$vdom$$Node$to_node$366$(self, sandbox) {
       if (_bind.$tag === 1) {
         const _Some = _bind;
         const _xs = _Some._0;
-        Yoorkin$rabbit$45$tea$internal$vdom$$to_node$46$attach_attrs$47$6023(sandbox, _xs, moonbitlang$core$option$$Option$unwrap$266$(rami3l$js$45$ffi$js$$Nullable$to_option$266$(Yoorkin$rabbit$45$tea$dom$$Node$to_element(_node))), []);
+        Yoorkin$rabbit$45$tea$internal$vdom$$to_node$46$attach_attrs$47$6028(sandbox, _xs, moonbitlang$core$option$$Option$unwrap$266$(rami3l$js$45$ffi$js$$Nullable$to_option$266$(Yoorkin$rabbit$45$tea$dom$$Node$to_element(_node))), []);
         _attrs$2.val = Option$None$0$;
       }
       const element$2 = Yoorkin$rabbit$45$tea$dom$$Document$create_element(Yoorkin$rabbit$45$tea$dom$$document(), "div");
@@ -18325,7 +18348,7 @@ function Yoorkin$rabbit$45$tea$internal$vdom$$do_diff$361$(old, new_) {
   }
   return childrens_old.length === 0 && childrens_new.length === 0 ? [] : Yoorkin$rabbit$45$tea$internal$vdom$$diff_without_key$361$(childrens_old, childrens_new);
 }
-function Yoorkin$rabbit$45$tea$internal$vdom$$diff_without_key$46$aux$47$6145(xs, ys, patches, index) {
+function Yoorkin$rabbit$45$tea$internal$vdom$$diff_without_key$46$aux$47$6150(xs, ys, patches, index) {
   let _tmp = xs;
   let _tmp$2 = ys;
   let _tmp$3 = patches;
@@ -18414,7 +18437,7 @@ function Yoorkin$rabbit$45$tea$internal$vdom$$diff_without_key$46$aux$47$6145(xs
 }
 function Yoorkin$rabbit$45$tea$internal$vdom$$diff_without_key$361$(old, new_) {
   const patches = [];
-  Yoorkin$rabbit$45$tea$internal$vdom$$diff_without_key$46$aux$47$6145({ buf: old, start: 0, len: old.length }, { buf: new_, start: 0, len: new_.length }, patches, 0);
+  Yoorkin$rabbit$45$tea$internal$vdom$$diff_without_key$46$aux$47$6150({ buf: old, start: 0, len: old.length }, { buf: new_, start: 0, len: new_.length }, patches, 0);
   return patches;
 }
 function Yoorkin$rabbit$45$tea$internal$vdom$$diff$361$(root_old, root_new) {
@@ -18433,7 +18456,7 @@ function Yoorkin$rabbit$45$tea$internal$vdom$$diff$361$(root_old, root_new) {
     return $panic();
   }
 }
-function Yoorkin$rabbit$45$tea$internal$vdom$$patch$46$aux$47$6186(sandbox, patches, current) {
+function Yoorkin$rabbit$45$tea$internal$vdom$$patch$46$aux$47$6191(sandbox, patches, current) {
   switch (patches.$tag) {
     case 0: {
       const _Drop = patches;
@@ -18611,7 +18634,7 @@ function Yoorkin$rabbit$45$tea$internal$vdom$$patch$46$aux$47$6186(sandbox, patc
           const _i = _tmp$4;
           if (_i < _len$3) {
             const patch = _childs_patches[_i];
-            Yoorkin$rabbit$45$tea$internal$vdom$$patch$46$aux$47$6186(sandbox, patch, node);
+            Yoorkin$rabbit$45$tea$internal$vdom$$patch$46$aux$47$6191(sandbox, patch, node);
             _tmp$4 = _i + 1 | 0;
             continue;
           } else {
@@ -18632,7 +18655,7 @@ function Yoorkin$rabbit$45$tea$internal$vdom$$patch$46$aux$47$6186(sandbox, patc
 function Yoorkin$rabbit$45$tea$internal$vdom$$Node$patch$366$(self, old, sandbox, mount) {
   const patches = Yoorkin$rabbit$45$tea$internal$vdom$$diff$361$(old, self);
   const root = Yoorkin$rabbit$45$tea$dom$$Element$to_node(Yoorkin$rabbit$45$tea$dom$$Document$get_element_by_id(Yoorkin$rabbit$45$tea$dom$$document(), mount));
-  Yoorkin$rabbit$45$tea$internal$vdom$$patch$46$aux$47$6186(sandbox, patches, root);
+  Yoorkin$rabbit$45$tea$internal$vdom$$patch$46$aux$47$6191(sandbox, patches, root);
 }
 function Yoorkin$rabbit$45$tea$html$$T$map$365$(self, f) {
   return Yoorkin$rabbit$45$tea$internal$vdom$$Node$map$365$(self, f);
@@ -34149,7 +34172,7 @@ function moonbitlang$mooncakes$page$home$$decode_module_indices(modules_json) {
                 const _tmp$3 = index.name;
                 $bound_check(_tmp$3, 0);
                 const c = _tmp$3.charCodeAt(0);
-                const first_letter = c >= 97 && c <= 122 ? (c - 97 | 0) + 65 | 0 : c;
+                const first_letter = c >= 97 && c <= 122 ? moonbitlang$core$option$$Option$unwrap$10$(moonbitlang$core$int$$Int$to_char((c - 97 | 0) + 65 | 0)) : c;
                 const _bind$3 = moonbitlang$core$builtin$$Map$get$292$(all_modules, first_letter);
                 if (_bind$3.$tag === 0) {
                   moonbitlang$core$builtin$$Map$op_set$292$(all_modules, first_letter, [index]);
@@ -34807,7 +34830,7 @@ function illusory0x0$fuzzy_match$$Query$matching_indices$9$(self, item) {
     return moonbitlang$core$set$$Set$is_empty$7$(indices) ? Option$None$89$ : new Option$Some$89$(moonbitlang$core$set$$Set$to_array$7$(indices));
   }
 }
-function illusory0x0$fuzzy_match$$split_by_matching_sections$46$add_section$47$11683(_env, matching, start, end_inclusive) {
+function illusory0x0$fuzzy_match$$split_by_matching_sections$46$add_section$47$11688(_env, matching, start, end_inclusive) {
   const item = _env._1;
   const sections = _env._0;
   moonbitlang$core$deque$$T$push_back$283$(sections, { _0: matching, _1: illusory0x0$fuzzy_match$$StringLike$view$9$(item, start, end_inclusive + 1 | 0) });
@@ -34826,7 +34849,7 @@ function illusory0x0$fuzzy_match$$Query$split_by_matching_sections$9$(self, item
       const _env = { _0: sections, _1: item };
       const first = moonbitlang$core$array$$Array$op_get$7$(_x, 0);
       if (first > 0) {
-        illusory0x0$fuzzy_match$$split_by_matching_sections$46$add_section$47$11683(_env, false, 0, first - 1 | 0);
+        illusory0x0$fuzzy_match$$split_by_matching_sections$46$add_section$47$11688(_env, false, 0, first - 1 | 0);
       }
       const matching_range_start = { val: first };
       const matching_range_end = { val: first };
@@ -34838,8 +34861,8 @@ function illusory0x0$fuzzy_match$$Query$split_by_matching_sections$9$(self, item
           const _p$3 = _x[_p$2];
           const idx = _p$3;
           if (idx > (matching_range_end.val + 1 | 0)) {
-            illusory0x0$fuzzy_match$$split_by_matching_sections$46$add_section$47$11683(_env, true, matching_range_start.val, matching_range_end.val);
-            illusory0x0$fuzzy_match$$split_by_matching_sections$46$add_section$47$11683(_env, false, matching_range_end.val + 1 | 0, idx - 1 | 0);
+            illusory0x0$fuzzy_match$$split_by_matching_sections$46$add_section$47$11688(_env, true, matching_range_start.val, matching_range_end.val);
+            illusory0x0$fuzzy_match$$split_by_matching_sections$46$add_section$47$11688(_env, false, matching_range_end.val + 1 | 0, idx - 1 | 0);
             matching_range_start.val = idx;
           }
           matching_range_end.val = idx;
@@ -34849,9 +34872,9 @@ function illusory0x0$fuzzy_match$$Query$split_by_matching_sections$9$(self, item
           break;
         }
       }
-      illusory0x0$fuzzy_match$$split_by_matching_sections$46$add_section$47$11683(_env, true, matching_range_start.val, matching_range_end.val);
+      illusory0x0$fuzzy_match$$split_by_matching_sections$46$add_section$47$11688(_env, true, matching_range_start.val, matching_range_end.val);
       if (matching_range_end.val < (illusory0x0$fuzzy_match$$StringLike$length$9$(item) - 1 | 0)) {
-        illusory0x0$fuzzy_match$$split_by_matching_sections$46$add_section$47$11683(_env, false, matching_range_end.val + 1 | 0, illusory0x0$fuzzy_match$$StringLike$length$9$(item) - 1 | 0);
+        illusory0x0$fuzzy_match$$split_by_matching_sections$46$add_section$47$11688(_env, false, matching_range_end.val + 1 | 0, illusory0x0$fuzzy_match$$StringLike$length$9$(item) - 1 | 0);
       }
       return new Option$Some$90$(moonbitlang$core$deque$$T$to_array$283$(sections));
     }
@@ -34877,8 +34900,8 @@ function CAIMEOX$lazy$$Lazy$force$383$(self) {
     return v;
   }
 }
-function Yoorkin$rabbit$45$tea$clipboard$$copy$46$42$cont$47$11710(_param) {}
-function Yoorkin$rabbit$45$tea$clipboard$$copy$46$42$async_driver$47$11711(_state) {
+function Yoorkin$rabbit$45$tea$clipboard$$copy$46$42$cont$47$11715(_param) {}
+function Yoorkin$rabbit$45$tea$clipboard$$copy$46$42$async_driver$47$11716(_state) {
   if (_state.$tag === 0) {
     const _$42$try$47$15 = _state;
     const _cont = _$42$try$47$15._3;
@@ -34916,9 +34939,9 @@ function Yoorkin$rabbit$45$tea$clipboard$$copy$362$(item, copied, failed) {
     const _Text = item;
     const _text = _Text._0;
     rami3l$js$45$ffi$js$$Promise$wait(Yoorkin$rabbit$45$tea$dom$$Clipboard$write_text(Yoorkin$rabbit$45$tea$dom$$Navigator$clipboard(Yoorkin$rabbit$45$tea$dom$$Window$navigator(Yoorkin$rabbit$45$tea$dom$$window())), _text), (_cont_param) => {
-      Yoorkin$rabbit$45$tea$clipboard$$copy$46$42$async_driver$47$11711(new $36$Yoorkin$47$rabbit$45$tea$47$clipboard$46$copy$46$lambda$46$lambda$47$37$46$State$State_1$72$(_cont_param, copied, dispatcher, Yoorkin$rabbit$45$tea$clipboard$$copy$46$42$cont$47$11710));
+      Yoorkin$rabbit$45$tea$clipboard$$copy$46$42$async_driver$47$11716(new $36$Yoorkin$47$rabbit$45$tea$47$clipboard$46$copy$46$lambda$46$lambda$47$37$46$State$State_1$72$(_cont_param, copied, dispatcher, Yoorkin$rabbit$45$tea$clipboard$$copy$46$42$cont$47$11715));
     }, (_cont_param) => {
-      Yoorkin$rabbit$45$tea$clipboard$$copy$46$42$async_driver$47$11711(new $36$Yoorkin$47$rabbit$45$tea$47$clipboard$46$copy$46$lambda$46$lambda$47$37$46$State$_try$47$15$72$(_cont_param, failed, dispatcher, Yoorkin$rabbit$45$tea$clipboard$$copy$46$42$cont$47$11710));
+      Yoorkin$rabbit$45$tea$clipboard$$copy$46$42$async_driver$47$11716(new $36$Yoorkin$47$rabbit$45$tea$47$clipboard$46$copy$46$lambda$46$lambda$47$37$46$State$_try$47$15$72$(_cont_param, failed, dispatcher, Yoorkin$rabbit$45$tea$clipboard$$copy$46$42$cont$47$11715));
     });
   };
 }
