@@ -56,7 +56,7 @@ pub fn load(path : String, fragment : String?) -> (Cmd[Msg], Model) {
   (
     batch([
       @http.get(
-        "https://mooncakes.io/assets/" +
+        "https://api.allorigins.win/raw?url=https://mooncakes.io/assets/" +
         path.trim("/").to_string() +
         "/resource.json",
         expect=Json(GotResource(_), decode_resource),
@@ -90,17 +90,19 @@ pub fn update(msg : Msg, model : Model) -> (Cmd[Msg], Model) {
           let cmd = match kind {
             Module({ module_index_path, .. }) =>
               @http.get(
-                "https://mooncakes.io/assets/" + module_index_path,
+                "https://api.allorigins.win/raw?url=https://mooncakes.io/assets/" +
+                module_index_path,
                 expect=Json(GotModuleIndex(_), decode_module_index),
               )
             Package({ package_data_path, module_path, .. }) =>
               batch([
                 @http.get(
-                  "https://mooncakes.io/assets/" + package_data_path,
+                  "https://api.allorigins.win/raw?url=https://mooncakes.io/assets/" +
+                  package_data_path,
                   expect=Json(GotPackageData(_), decode_package_data),
                 ),
                 @http.get(
-                  "https://mooncakes.io/assets/" +
+                  "https://api.allorigins.win/raw?url=https://mooncakes.io/assets/" +
                   module_path +
                   "/module_index.json",
                   expect=Json(GotModuleIndex(_), decode_module_index),
@@ -109,11 +111,13 @@ pub fn update(msg : Msg, model : Model) -> (Cmd[Msg], Model) {
             RootPackage({ module_index_path, package_data_path, .. }) =>
               batch([
                 @http.get(
-                  "https://mooncakes.io/assets/" + module_index_path,
+                  "https://api.allorigins.win/raw?url=https://mooncakes.io/assets/" +
+                  module_index_path,
                   expect=Json(GotModuleIndex(_), decode_module_index),
                 ),
                 @http.get(
-                  "https://mooncakes.io/assets/" + package_data_path,
+                  "https://api.allorigins.win/raw?url=https://mooncakes.io/assets/" +
+                  package_data_path,
                   expect=Json(GotPackageData(_), decode_package_data),
                 ),
               ])
