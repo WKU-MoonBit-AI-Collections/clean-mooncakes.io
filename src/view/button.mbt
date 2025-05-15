@@ -59,7 +59,7 @@ pub fn footer[M]() -> Html[M] {
       a(href="https://github.com/moonbitlang/mooncakes.io/issues/new", class~, [
         text("Report issue"),
       ]),
-      p([text("© 2025 mooncakes.io")]),
+      p([text("© 2025 mooncakes.io (Community Edition)")]),
     ],
   )
 }

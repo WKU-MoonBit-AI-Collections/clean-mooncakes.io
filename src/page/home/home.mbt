@@ -112,7 +112,11 @@ fn banner() -> Html[Msg] {
           h1(class="font-semibold text-4xl lg:text-5xl mt-2", [
             text("for"),
             span(class="text-moonbit font-extrabold", [text(" MoonBit ")]),
-            text("community"),
+            text("Community"),
+          ]),
+          h1(class="font-semibold text-4xl lg:text-5xl mt-2", [
+            text("with"),
+            span(class="text-moonbit font-extrabold", [text("LLM Filter")]),
           ]),
           h2(class="text-lg lg:text-2xl mt-4 text-zinc-500 flex gap-1", [
             text("Browse, search and share package and documentation"),
@@ -221,7 +225,7 @@ fn decode_module_indices(modules_json : Json) -> Result[Indices, String] {
 
   fn to_upper(c : Char) -> Char {
     if c >= 'a' && c <= 'z' {
-      Char::from_int(c.to_int() - 'a'.to_int() + 'A'.to_int())
+      (c.to_int() - 'a'.to_int() + 'A'.to_int()).to_char().unwrap()
     } else {
       c
     }

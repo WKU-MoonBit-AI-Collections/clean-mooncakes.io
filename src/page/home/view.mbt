@@ -170,7 +170,7 @@ fn navbar() -> Html[Msg] {
         div(class="font-title select-none p-4", [
           // use whitespace-nowrap to prevent logo from wrapping
           h1(class="whitespace-nowrap text-gray-700 font-semibold", [
-            text("🥮 mooncakes.io"),
+            text("🥮 mooncakes.io (Community Edition)"),
           ]),
         ]),
         div(class="justify-center my-2 w-full max-w-72 shadow-sm", [

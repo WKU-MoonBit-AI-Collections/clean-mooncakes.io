@@ -266,7 +266,7 @@ fn logo() -> Html[Msg] {
     div(class="h-full flex items-center w-full 2xl:w-2/3", [
       a(class="border-gray-300 w-full", href="/", [
         h1(class="font-title text-gray-700 font-semibold mx-12", [
-          text("🥮 mooncakes.io"),
+          text("🥮 mooncakes.io (Community Edition)"),
         ]),
       ]),
     ]),
