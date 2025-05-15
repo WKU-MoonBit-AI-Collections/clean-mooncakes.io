@@ -34137,7 +34137,7 @@ function moonbitlang$mooncakes$page$home$$decode_module_indices(modules_json) {
   }
 }
 function moonbitlang$mooncakes$page$home$$load() {
-  return { _0: Yoorkin$rabbit$45$tea$http$$get$378$("https://mooncakes.io/assets/modules.json", new $64$Yoorkin$47$rabbit$45$tea$47$http$46$Expecting$Json$87$((_hole105) => new $64$moonbitlang$47$mooncakes$47$page$47$home$46$Msg$GotModuleIndices(_hole105), moonbitlang$mooncakes$page$home$$decode_module_indices)), _1: { indices: $64$moonbitlang$47$mooncakes$47$util$46$Status$Loading$88$, filter: "", filtered_modules: [] } };
+  return { _0: Yoorkin$rabbit$45$tea$http$$get$378$("https://api.allorigins.win/raw?url=https://mooncakes.io/assets/modules.json", new $64$Yoorkin$47$rabbit$45$tea$47$http$46$Expecting$Json$87$((_hole105) => new $64$moonbitlang$47$mooncakes$47$page$47$home$46$Msg$GotModuleIndices(_hole105), moonbitlang$mooncakes$page$home$$decode_module_indices)), _1: { indices: $64$moonbitlang$47$mooncakes$47$util$46$Status$Loading$88$, filter: "", filtered_modules: [] } };
 }
 function moonbitlang$mooncakes$page$home$$filter_indices(filter, indices) {
   const _bind = moonbitlang$core$builtin$$Map$values$292$(indices.all_modules);
@@ -35852,7 +35852,7 @@ function moonbitlang$mooncakes$page$docs$$FoldedState$new() {
   return { set: moonbitlang$core$immut$sorted_set$$new$9$(), card_mode: 0 };
 }
 function moonbitlang$mooncakes$page$docs$$load(path, fragment) {
-  const _tmp = Yoorkin$rabbit$45$tea$cmd$$batch$362$([Yoorkin$rabbit$45$tea$http$$get$377$(`https://mooncakes.io/assets/${moonbitlang$core$builtin$$Show$to_string$16$(moonbitlang$core$string$$String$trim(path, { str: moonbitlang$mooncakes$page$docs$$load$46$42$bind$124$948, start: 0, end: moonbitlang$mooncakes$page$docs$$load$46$42$bind$124$948.length }))}/resource.json`, new $64$Yoorkin$47$rabbit$45$tea$47$http$46$Expecting$Json$112$((_hole539) => new $64$moonbitlang$47$mooncakes$47$page$47$docs$46$Msg$GotResource(_hole539), moonbitlang$mooncakes$page$docs$$decode_resource)), Yoorkin$rabbit$45$tea$dialog$$close$362$("search-panel", undefined)]);
+  const _tmp = Yoorkin$rabbit$45$tea$cmd$$batch$362$([Yoorkin$rabbit$45$tea$http$$get$377$(`https://api.allorigins.win/raw?url=https://mooncakes.io/assets/${moonbitlang$core$builtin$$Show$to_string$16$(moonbitlang$core$string$$String$trim(path, { str: moonbitlang$mooncakes$page$docs$$load$46$42$bind$124$948, start: 0, end: moonbitlang$mooncakes$page$docs$$load$46$42$bind$124$948.length }))}/resource.json`, new $64$Yoorkin$47$rabbit$45$tea$47$http$46$Expecting$Json$112$((_hole539) => new $64$moonbitlang$47$mooncakes$47$page$47$docs$46$Msg$GotResource(_hole539), moonbitlang$mooncakes$page$docs$$decode_resource)), Yoorkin$rabbit$45$tea$dialog$$close$362$("search-panel", undefined)]);
   const _bind = $64$moonbitlang$47$mooncakes$47$util$46$Status$Loading$113$;
   const _bind$2 = moonbitlang$core$option$$Option$or$9$(fragment, "");
   const _bind$3 = [];
@@ -37840,7 +37840,7 @@ function moonbitlang$mooncakes$page$docs$$update(msg, model) {
             const _Module = _kind;
             const _x$2 = _Module._0;
             const _module_index_path = _x$2.module_index_path;
-            cmd = Yoorkin$rabbit$45$tea$http$$get$379$(`https://mooncakes.io/assets/${_module_index_path}`, new $64$Yoorkin$47$rabbit$45$tea$47$http$46$Expecting$Json$137$((_hole484) => new $64$moonbitlang$47$mooncakes$47$page$47$docs$46$Msg$GotModuleIndex(_hole484), moonbitlang$mooncakes$page$docs$$decode_module_index));
+            cmd = Yoorkin$rabbit$45$tea$http$$get$379$(`https://api.allorigins.win/raw?url=https://mooncakes.io/assets/${_module_index_path}`, new $64$Yoorkin$47$rabbit$45$tea$47$http$46$Expecting$Json$137$((_hole484) => new $64$moonbitlang$47$mooncakes$47$page$47$docs$46$Msg$GotModuleIndex(_hole484), moonbitlang$mooncakes$page$docs$$decode_module_index));
             break;
           }
           case 0: {
@@ -37848,7 +37848,7 @@ function moonbitlang$mooncakes$page$docs$$update(msg, model) {
             const _x$3 = _Package._0;
             const _package_data_path = _x$3.package_data_path;
             const _module_path = _x$3.module_path;
-            cmd = Yoorkin$rabbit$45$tea$cmd$$batch$362$([Yoorkin$rabbit$45$tea$http$$get$380$(`https://mooncakes.io/assets/${_package_data_path}`, new $64$Yoorkin$47$rabbit$45$tea$47$http$46$Expecting$Json$138$((_hole488) => new $64$moonbitlang$47$mooncakes$47$page$47$docs$46$Msg$GotPackageData(_hole488), moonbitlang$mooncakes$page$docs$$decode_package_data)), Yoorkin$rabbit$45$tea$http$$get$379$(`https://mooncakes.io/assets/${_module_path}/module_index.json`, new $64$Yoorkin$47$rabbit$45$tea$47$http$46$Expecting$Json$137$((_hole490) => new $64$moonbitlang$47$mooncakes$47$page$47$docs$46$Msg$GotModuleIndex(_hole490), moonbitlang$mooncakes$page$docs$$decode_module_index))]);
+            cmd = Yoorkin$rabbit$45$tea$cmd$$batch$362$([Yoorkin$rabbit$45$tea$http$$get$380$(`https://api.allorigins.win/raw?url=https://mooncakes.io/assets/${_package_data_path}`, new $64$Yoorkin$47$rabbit$45$tea$47$http$46$Expecting$Json$138$((_hole488) => new $64$moonbitlang$47$mooncakes$47$page$47$docs$46$Msg$GotPackageData(_hole488), moonbitlang$mooncakes$page$docs$$decode_package_data)), Yoorkin$rabbit$45$tea$http$$get$379$(`https://api.allorigins.win/raw?url=https://mooncakes.io/assets/${_module_path}/module_index.json`, new $64$Yoorkin$47$rabbit$45$tea$47$http$46$Expecting$Json$137$((_hole490) => new $64$moonbitlang$47$mooncakes$47$page$47$docs$46$Msg$GotModuleIndex(_hole490), moonbitlang$mooncakes$page$docs$$decode_module_index))]);
             break;
           }
           default: {
@@ -37856,7 +37856,7 @@ function moonbitlang$mooncakes$page$docs$$update(msg, model) {
             const _x$4 = _RootPackage._0;
             const _module_index_path$2 = _x$4.module_index_path;
             const _package_data_path$2 = _x$4.package_data_path;
-            cmd = Yoorkin$rabbit$45$tea$cmd$$batch$362$([Yoorkin$rabbit$45$tea$http$$get$379$(`https://mooncakes.io/assets/${_module_index_path$2}`, new $64$Yoorkin$47$rabbit$45$tea$47$http$46$Expecting$Json$137$((_hole494) => new $64$moonbitlang$47$mooncakes$47$page$47$docs$46$Msg$GotModuleIndex(_hole494), moonbitlang$mooncakes$page$docs$$decode_module_index)), Yoorkin$rabbit$45$tea$http$$get$380$(`https://mooncakes.io/assets/${_package_data_path$2}`, new $64$Yoorkin$47$rabbit$45$tea$47$http$46$Expecting$Json$138$((_hole496) => new $64$moonbitlang$47$mooncakes$47$page$47$docs$46$Msg$GotPackageData(_hole496), moonbitlang$mooncakes$page$docs$$decode_package_data))]);
+            cmd = Yoorkin$rabbit$45$tea$cmd$$batch$362$([Yoorkin$rabbit$45$tea$http$$get$379$(`https://api.allorigins.win/raw?url=https://mooncakes.io/assets/${_module_index_path$2}`, new $64$Yoorkin$47$rabbit$45$tea$47$http$46$Expecting$Json$137$((_hole494) => new $64$moonbitlang$47$mooncakes$47$page$47$docs$46$Msg$GotModuleIndex(_hole494), moonbitlang$mooncakes$page$docs$$decode_module_index)), Yoorkin$rabbit$45$tea$http$$get$380$(`https://api.allorigins.win/raw?url=https://mooncakes.io/assets/${_package_data_path$2}`, new $64$Yoorkin$47$rabbit$45$tea$47$http$46$Expecting$Json$138$((_hole496) => new $64$moonbitlang$47$mooncakes$47$page$47$docs$46$Msg$GotPackageData(_hole496), moonbitlang$mooncakes$page$docs$$decode_package_data))]);
           }
         }
         return { _0: cmd, _1: { ...model, resource: new $64$moonbitlang$47$mooncakes$47$util$46$Status$Success$115$(_x) } };
