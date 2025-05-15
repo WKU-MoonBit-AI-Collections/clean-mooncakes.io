@@ -116,7 +116,7 @@ fn banner() -> Html[Msg] {
           ]),
           h1(class="font-semibold text-4xl lg:text-5xl mt-2", [
             text("with"),
-            span(class="text-moonbit font-extrabold", [text("LLM Filter")]),
+            span(class="text-moonbit font-extrabold", [text(" LLM Filter")]),
           ]),
           h2(class="text-lg lg:text-2xl mt-4 text-zinc-500 flex gap-1", [
             text("Browse, search and share package and documentation"),
