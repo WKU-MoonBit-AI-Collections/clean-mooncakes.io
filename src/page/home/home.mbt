@@ -46,7 +46,7 @@ pub(all) struct ModuleIndex {
 pub fn load() -> (Cmd[Msg], Model) {
   (
     @http.get(
-      "https://api.allorigins.win/raw?url=https://mooncakes.io/assets/modules.json",
+      "https://mooncakes.me-56d.workers.dev/?url=https://mooncakes.io/assets/modules.json",
       expect=Json(GotModuleIndices(_), decode_module_indices),
     ),
     { indices: Loading, filter: "", filtered_modules: [] },
